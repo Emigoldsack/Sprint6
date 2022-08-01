@@ -1,0 +1,1322 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/gonzalo/Downloads/itbank.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="3703"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,6:maincuenta"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="cd_account_type" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="140"/><column index="2" value="140"/><column index="3" value="158"/><column index="4" value="156"/><column index="5" value="111"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="cd_adrress" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="2" value="220"/><column index="3" value="159"/><column index="4" value="184"/><column index="5" value="142"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="cd_brand_card" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="2" mode="0"/></sort><column_widths><column index="1" value="125"/><column index="2" value="76"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="cd_card_brand" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="79"/><column index="2" value="69"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="cd_cards" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="7" mode="0"/></sort><column_widths><column index="1" value="117"/><column index="2" value="95"/><column index="3" value="54"/><column index="4" value="102"/><column index="5" value="134"/><column index="6" value="79"/><column index="7" value="125"/><column index="8" value="79"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="cd_customer" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="111"/><column index="2" value="135"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="cd_type_card" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="79"/><column index="2" value="105"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="cliente" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="88"/><column index="2" value="112"/><column index="3" value="133"/><column index="4" value="99"/><column index="5" value="73"/><column index="6" value="72"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="cuenta" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="79"/><column index="2" value="88"/><column index="3" value="61"/><column index="4" value="233"/><column index="5" value="157"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="empleado" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="89"/><column index="2" value="113"/><column index="3" value="134"/><column index="4" value="141"/><column index="6" value="72"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="prestamo" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="54"/><column index="2" value="87"/><column index="3" value="73"/><column index="4" value="74"/><column index="5" value="88"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="sucursal" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="72"/><column index="2" value="110"/><column index="3" value="138"/><column index="4" value="132"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="view_customer" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="88"/><column index="2" value="72"/><column index="3" value="112"/><column index="4" value="133"/><column index="5" value="99"/><column index="6" value="40"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="Problem 1 and 2- Sprint 6">--Para mayor seguridad vamos a colocar cd_ por las posibles inyecciones sql y en ingles:
+CREATE TABLE cd_customer(
+	cd_customer_id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+	cd_customer_name TEXT NOT NULL
+);
+--Tipo de cuenta
+CREATE TABLE cd_account_type(
+	cd_account_type_id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+	cd_current_account INTEGER NOT NULL CHECK(cd_current_account &gt;= 0 AND cd_current_account &lt;= 1),
+	cd_saving_bank_pesos INTEGER NOT NULL CHECK(cd_saving_bank_pesos &gt;=0 AND cd_saving_bank_pesos &lt;=1),
+	cd_saving_bank_dollar INTEGER NOT NULL CHECK(cd_saving_bank_dollar &gt;=0 AND cd_saving_bank_dollar &lt;=1),
+	cd_customer_id INTEGER NOT NULL,
+	FOREIGN KEY(cd_customer_id) REFERENCES cd_customer(cd_customer_id)
+);
+--Marca tarjeta
+CREATE TABLE cd_card_brand(
+	cd_card_id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+	cd_brand TEXT NOT NULL 
+);
+--Insertamos el tipo de cliente
+INSERT INTO cd_customer(cd_customer_name) VALUES ('Classic');
+INSERT INTO cd_customer(cd_customer_name) VALUES ('Gold');
+INSERT INTO cd_customer(cd_customer_name) VALUES ('Black');
+
+--Alteramos CUENTA para realizar FK en relacion con cd_customer_id
+ALTER TABLE cuenta ADD COLUMN cd_account_type_id INTEGER REFERENCES cd_account_type(cd_account_type_id);
+--Actualizamos los valores de CUENTA
+UPDATE cuenta SET cd_account_type_id = (ABS(RANDOM())%(4-1)+1) WHERE account_id &gt; 0;
+
+--Insercción
+INSERT INTO cd_account_type(cd_current_account, cd_saving_bank_pesos, cd_saving_bank_dollar, cd_customer_id)
+VALUES(False, True , False , 1);
+INSERT INTO cd_account_type(cd_current_account, cd_saving_bank_pesos, cd_saving_bank_dollar, cd_customer_id)
+VALUES( True, True ,True , 2);
+INSERT INTO cd_account_type(cd_current_account, cd_saving_bank_pesos, cd_saving_bank_dollar, cd_customer_id)
+VALUES( True, True ,True , 3);
+--- END ITEM 1 -- 
+--- START ITEM 2 --
+CREATE TABLE cd_brand_card(
+	cd_brand_card_id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+	cd_brands text not null 
+);
+CREATE TABLE cd_type_card(
+	cd_card_id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+	cd_type_cards text not null 
+);
+CREATE TABLE cd_cards(
+	cd_card_type_id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+	cd_num_card INT NOT NULL UNIQUE CHECK(cd_num_card BETWEEN 0 AND 99999999999999999999),
+	cd_cvv INT NOT NULL CHECK(cd_cvv BETWEEN 0 AND 999),
+	cd_date_issue TEXT NOT NULL,
+	cd_date_expiration TEXT NOT NULL,
+	cd_card_id INTEGER NOT NULL,
+	cd_card_brand_id INTEGER NOT NULL,
+	account_id INTEGER NOT NULL,
+	FOREIGN KEY (cd_card_id) REFERENCES cd_type_card(cd_card_id),
+	FOREIGN KEY (cd_card_brand_id) REFERENCES cd_brand_card(cd_brand_card_id),
+	FOREIGN KEY(account_id) REFERENCES cuenta(account_id)
+);
+--Me equivo en una fk volvi a generar -- no tocar
+--DROP TABLE cd_cards;--
+
+--INSERT
+INSERT INTO cd_brand_card(cd_brands)
+VALUES ('Visa');
+INSERT INTO cd_brand_card(cd_brands)
+VALUES ('MasterCard');
+INSERT INTO cd_brand_card(cd_brands)
+VALUES ('Metro');
+--INSERT
+INSERT INTO cd_type_card(cd_type_cards)
+VALUES ('Credito');
+INSERT INTO cd_type_card(cd_type_cards)
+VALUES ('Debito');
+
+--Adrress
+create TABLE cd_adrress(
+	cd_adrress_id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+	cd_address_street TEXT NOT NULL,
+	cd_direccion_city TEXT NOT NULL,
+	cd_address_province TEXT NOT NULL,
+	cd_address_country TEXT NOT NULL
+);
+
+ALTER TABLE cliente ADD COLUMN cd_adrress_id INTEGER REFERENCES cd_adrress(cd_adrress_id);
+ALTER TABLE empleado ADD COLUMN cd_adrress_id INTEGER REFERENCES cd_adrress(cd_adrress_id);
+ALTER TABLE sucursal ADD COLUMN cd_adrress_id INTEGER REFERENCES cd_adrress(cd_adrress_id);
+CREATE UNIQUE INDEX id_adrress_unique ON sucursal(cd_adrress_id);
+--Corregir el campo employee_hire_date de la tabla empleado con la fecha en formato YYYY-MM-DD
+UPDATE sucursal 
+SET cd_adrress_id = address.cd_adrress_id + 399
+FROM (SELECT * FROM cd_adrress) AS address
+WHERE branch_id &gt; 0 AND branch_id = address.cd_adrress_id;
+
+--Problema 2
+CREATE VIEW view_customer AS 
+SELECT 
+customer_id,
+branch_id,
+customer_name,
+customer_surname,
+customer_DNI,
+strftime('%Y', CURRENT_DATE)- strftime('%Y', dob) as Age  
+FROM cliente
+
+SELECT customer_id, branch_id, customer_name, customer_surname, customer_DNI, Age 
+FROM view_customer;
+
+SELECT customer_id, branch_id, customer_name, customer_surname, customer_DNI, Age FROM view_customer 
+WHERE Age &gt; 40 ORDER BY customer_DNI DESC;
+
+SELECT customer_id, branch_id, customer_name, customer_surname, customer_DNI, Age FROM view_customer 
+WHERE customer_name like 'Anne' or customer_name like 'Tyler' ORDER BY Age ASC;
+
+INSERT INTO cliente(customer_name,customer_surname,customer_DNI,branch_id,dob)
+VALUES ('Lois','Stout','47730534', '80' ,'1984-07-07'),
+		('Hall','Mcconnell','52055464','45','1968-04-30'),
+		('Hilel','Mclean','43625213','77','1993-03-28'),
+		('Jin','Cooley','21207908','96','1959-08-24'),
+		('Gabriel','Harmon','57063950','27','1976-04-01');
+--Verificando
+SELECT * FROM cliente
+WHERE customer_name IN( 'Lois', 'Hall', 'Hilel', 'Jin', 'Gabriel');
+
+--SELECT customer_name,customer_surname,customer_DNI,branch_id,dob FROM cliente--;
+
+--Actualizando
+UPDATE cliente
+SET branch_id = 10
+WHERE customer_name IN( 'Lois', 'Hall', 'Hilel', 'Jin', 'Gabriel');
+
+--DELETE
+DELETE FROM cliente
+WHERE customer_name LIKE 'David';
+
+--Verificamos
+SELECT *
+FROM cliente
+WHERE customer_name LIKE 'David';
+
+-- Mayor Importe
+SELECT loan_total 
+FROM prestamo
+ORDER BY loan_total DESC
+LIMIT 1;</sql><sql name="Problem 3 and 4">--cuentas con saldo negativo
+SELECT * FROM cuenta
+WHERE balance &lt; 0;
+
+--clientes que tengan en el apellido la letra Z
+SELECT customer_name, customer_surname, 
+cast(strftime('%Y.%m%d', 'now') - strftime('%Y.%m%d', dob ) as int) as Edad
+from cliente
+where customer_surname like '%z%';
+
+--personas cuyo nombre sea “Brendan”
+SELECT c.customer_name, c.customer_surname, 
+cast(strftime('%Y.%m%d', 'now') - strftime('%Y.%m%d', c.dob ) as int) as Edad,
+s.branch_name as sucursal
+FROM cliente c
+INNER JOIN sucursal s ON s.branch_id = c.branch_id
+WHERE c.customer_name like 'Brendan'
+ORDER BY s.branch_name;
+
+--los préstamos con un importe mayor a $80.000 y los préstamos prendarios
+SELECT * FROM prestamo
+WHERE loan_total &gt; 80000
+UNION
+SELECT * FROM prestamo
+WHERE loan_type like 'PRENDARIO';
+
+--prestamos cuyo importe sea mayor que el importe medio de todos los prestamos
+SELECT * FROM prestamo
+WHERE loan_total &gt; (
+	SELECT avg(loan_total) FROM prestamo
+);
+
+
+--Clientes menores a 50 años
+SELECT COUNT(*) FROM cliente
+WHERE cast(strftime('%Y.%m%d', 'now') - strftime('%Y.%m%d', dob ) as int) &lt; 50;
+
+--primeras 5 cuentas con saldo mayor a 8.000$
+SELECT * FROM cuenta
+WHERE balance &gt; 8000
+LIMIT 5;
+
+--los préstamos que tengan fecha en abril, junio y agosto
+SELECT * FROM prestamo
+WHERE strftime('%m', loan_date) in ('04','06','08')
+ORDER BY loan_total;
+
+--importe total de los prestamos agrupados por tipo de préstamos
+SELECT loan_type,SUM(loan_total) as loan_total_accu FROM prestamo
+GROUP BY loan_type;
+
+
+--PROBLEM 4
+--Customer
+SELECT COUNT(customer_name) AS c, sucursal.branch_name FROM cliente
+JOIN sucursal on sucursal.branch_id = cliente.branch_id
+GROUP BY sucursal.branch_name;
+--Employees
+SELECT COUNT(employee_name) AS cantidad_empleados, sucursal.branch_name FROM empleado
+JOIN sucursal on sucursal.branch_id = empleado.branch_id
+GROUP BY sucursal.branch_name;
+--Cards Amount
+SELECT COUNT(cd_card_brand_id) AS c, sucursal.branch_name as s FROM cd_cards
+INNER JOIN sucursal on sucursal.branch_id = cd_cards.cd_card_brand_id
+GROUP BY s;
+--Loan(Prestamos)
+SELECT AVG(loan_total) , sucursal.branch_name FROM prestamo
+JOIN sucursal on sucursal.branch_id = cliente.branch_id
+JOIN cliente on cliente.customer_id = prestamo.customer_id 
+GROUP BY sucursal.branch_name;
+--Critical branch
+CREATE TABLE auditoria_cuenta(
+	old_id INTEGER,
+	new_id INTEGER,
+	old_balance INTEGER,
+	new_balance INTEGER,
+	old_iban TEXT,
+	new_iban TEXT,
+	old_type TEXT,
+	new_type TEXT,
+	user_action TEXT,
+	created_at TEXT
+);
+--DROP TABLE auditoria_cuenta;
+
+CREATE TRIGGER insert_after_update
+AFTER UPDATE ON cuenta
+WHEN old_balance &lt;&gt; new_balance or old_iban &lt;&gt; new_iban or old_type &lt;&gt; new_type
+BEGIN
+INSERT INTO auditoria_cuenta(
+	old_id,
+	new_id,
+	old_balance,
+	new_balance,
+	old_iban,
+	new_iban,
+	old_type,
+	new_type,
+	user_action,
+	created_at
+)VALUES(
+	old_id,
+	new_id,
+	old_balance,
+	new_balance,
+	old_iban,
+	new_iban,
+	old_type,
+	new_type,
+	user_action,
+	created_at
+);
+
+UPDATE cuenta AS c
+SET c.balance = c.balance - 100
+WHERE c.account_id IN (10, 11, 12, 13, 14);
+
+--Tabla Movimientos
+CREATE TABLE movimientos (
+	movimiento TEXT NOT NULL,
+	numero_cuenta INTEGER NOT NULL,
+	monto INTEGER NOT NULL,
+	tipo_operacion TEXT NOT NULL,
+	hora date
+);
+
+BEGIN TRANSACTION Deposito
+	UPDATE cuenta
+	SET balance = balance+1000
+	WHERE account_id = 400
+	SAVEPOINT TRANSACTION P1
+	ROLLBACK TRANSACTION P1
+	COMMIT TRANSACTION deposito;
+
+--Mejora busqueda por DNI
+EXPLAIN QUERY PLAN
+SELECT *
+FROM cliente
+WHERE customer_DNI = '74701370';
+
+CREATE 
+UNIQUE INDEX  id_search_dni on cliente(customer_DNI)</sql><sql name="500 cards">--INSERTAMOS LAS 500 Tarjetas
+
+INSERT INTO cd_cards (cd_num_card,cd_cvv,cd_date_issue,cd_date_expiration,cd_card_id,cd_card_brand_id,account_id)
+VALUES
+  (54518835171299650000,&quot;339&quot;,&quot;11/22&quot;,&quot;09/24&quot;,2,3,1),
+  (22983078013269000000,&quot;325&quot;,&quot;18/21&quot;,&quot;05/25&quot;,1,1,2),
+  (53598092104695010000,&quot;901&quot;,&quot;14/22&quot;,&quot;02/25&quot;,1,1,3),
+  (73864886654820600000,&quot;961&quot;,&quot;07/21&quot;,&quot;02/25&quot;,2,2,4),
+  (17640738109216203000,&quot;766&quot;,&quot;31/21&quot;,&quot;03/25&quot;,1,2,5),
+  (31627631951738370000,&quot;706&quot;,&quot;29/22&quot;,&quot;09/24&quot;,1,1,6),
+  (71222956420938010000,&quot;548&quot;,&quot;28/22&quot;,&quot;11/24&quot;,1,1,7),
+  (52319975786059320000,&quot;173&quot;,&quot;07/23&quot;,&quot;02/25&quot;,2,2,8),
+  (83203617301433470000,&quot;280&quot;,&quot;15/21&quot;,&quot;02/25&quot;,1,3,9),
+  (98414685401757120000,&quot;215&quot;,&quot;10/22&quot;,&quot;11/24&quot;,2,2,10),
+  (73384287923256380000,&quot;153&quot;,&quot;07/23&quot;,&quot;09/24&quot;,1,2,11),
+  (68807873144099440000,&quot;288&quot;,&quot;13/21&quot;,&quot;10/24&quot;,2,2,12),
+  (72107033787143184000,&quot;987&quot;,&quot;13/23&quot;,&quot;03/25&quot;,2,2,13),
+  (53497959188330630000,&quot;687&quot;,&quot;08/23&quot;,&quot;12/24&quot;,1,1,14),
+  (76946161631592320000,&quot;412&quot;,&quot;20/22&quot;,&quot;02/25&quot;,1,2,15),
+  (30533870378075910000,&quot;289&quot;,&quot;24/22&quot;,&quot;12/24&quot;,1,2,16),
+  (13337738921745168000,&quot;305&quot;,&quot;23/22&quot;,&quot;05/25&quot;,1,3,17),
+  (35022233239841817000,&quot;846&quot;,&quot;07/21&quot;,&quot;11/24&quot;,2,1,18),
+  (83532539683227840000,&quot;781&quot;,&quot;11/23&quot;,&quot;01/25&quot;,1,3,19),
+  (5694710527261093000,&quot;915&quot;,&quot;25/23&quot;,&quot;12/24&quot;,1,1,20),
+  (11435378520676465000,&quot;848&quot;,&quot;07/22&quot;,&quot;03/25&quot;,2,2,21),
+  (54414888843385320000,&quot;919&quot;,&quot;25/22&quot;,&quot;06/25&quot;,2,2,22),
+  (52706817994815360000,&quot;717&quot;,&quot;20/23&quot;,&quot;05/25&quot;,2,2,23),
+  (90216373240041490000,&quot;457&quot;,&quot;13/21&quot;,&quot;09/24&quot;,1,3,24),
+  (73669866200853004000,&quot;896&quot;,&quot;16/22&quot;,&quot;08/24&quot;,2,2,25),
+  (82124111542919680000,&quot;687&quot;,&quot;05/22&quot;,&quot;08/24&quot;,2,3,26),
+  (73082419480151040000,&quot;425&quot;,&quot;05/22&quot;,&quot;09/24&quot;,1,3,27),
+  (79711189550960850000,&quot;841&quot;,&quot;24/23&quot;,&quot;12/24&quot;,2,2,28),
+  (51892948671039726000,&quot;326&quot;,&quot;10/23&quot;,&quot;03/25&quot;,1,2,29),
+  (77745739120056930000,&quot;855&quot;,&quot;23/22&quot;,&quot;07/25&quot;,2,3,30),
+  (4811323677763957000,&quot;702&quot;,&quot;26/22&quot;,&quot;06/25&quot;,1,2,31),
+  (35791207888882282000,&quot;874&quot;,&quot;09/22&quot;,&quot;01/25&quot;,2,2,32),
+  (74145158939986020000,&quot;492&quot;,&quot;31/22&quot;,&quot;01/25&quot;,2,3,33),
+  (28738882408557064000,&quot;943&quot;,&quot;28/22&quot;,&quot;11/24&quot;,2,2,34),
+  (28060925847072160000,&quot;231&quot;,&quot;01/23&quot;,&quot;12/24&quot;,2,2,35),
+  (20511588436186878000,&quot;840&quot;,&quot;18/22&quot;,&quot;04/25&quot;,1,2,36),
+  (59222128223043690000,&quot;662&quot;,&quot;05/22&quot;,&quot;06/25&quot;,2,2,37),
+  (99261021043006620000,&quot;481&quot;,&quot;16/22&quot;,&quot;06/25&quot;,1,2,38),
+  (81637333358465060000,&quot;817&quot;,&quot;28/21&quot;,&quot;04/25&quot;,1,1,39),
+  (36907605331945750000,&quot;791&quot;,&quot;28/23&quot;,&quot;07/25&quot;,2,2,40),
+  (94639978895554690000,&quot;206&quot;,&quot;10/23&quot;,&quot;10/24&quot;,1,2,41),
+  (92112793484609340000,&quot;941&quot;,&quot;03/23&quot;,&quot;03/25&quot;,2,2,42),
+  (46295148065526730000,&quot;443&quot;,&quot;12/22&quot;,&quot;05/25&quot;,2,3,43),
+  (51096151098051810000,&quot;128&quot;,&quot;17/22&quot;,&quot;02/25&quot;,1,2,44),
+  (47029591954122240000,&quot;928&quot;,&quot;25/22&quot;,&quot;04/25&quot;,2,3,45),
+  (30134874367752620000,&quot;919&quot;,&quot;02/22&quot;,&quot;12/24&quot;,2,2,46),
+  (3850762491432879600,&quot;279&quot;,&quot;12/23&quot;,&quot;11/24&quot;,1,3,47),
+  (90951551113425270000,&quot;512&quot;,&quot;03/21&quot;,&quot;04/25&quot;,2,1,48),
+  (68296457578453550000,&quot;218&quot;,&quot;31/22&quot;,&quot;09/24&quot;,2,2,49),
+  (67483142948519444000,&quot;943&quot;,&quot;08/21&quot;,&quot;04/25&quot;,1,3,50),
+  (4508816521727743000,&quot;487&quot;,&quot;30/22&quot;,&quot;02/25&quot;,2,2,51),
+  (31138804971498900000,&quot;296&quot;,&quot;24/23&quot;,&quot;05/25&quot;,1,1,52),
+  (73971553440934000000,&quot;784&quot;,&quot;30/23&quot;,&quot;05/25&quot;,1,2,53),
+  (33417059279317086000,&quot;947&quot;,&quot;02/22&quot;,&quot;03/25&quot;,2,2,54),
+  (66828209531238160000,&quot;892&quot;,&quot;09/21&quot;,&quot;06/25&quot;,1,2,55),
+  (55319484815027730000,&quot;534&quot;,&quot;30/22&quot;,&quot;08/24&quot;,1,1,56),
+  (79111766297156120000,&quot;653&quot;,&quot;01/22&quot;,&quot;06/25&quot;,1,1,57),
+  (96915346905965460000,&quot;607&quot;,&quot;03/23&quot;,&quot;09/24&quot;,2,3,58),
+  (66908163348374680000,&quot;350&quot;,&quot;29/22&quot;,&quot;08/24&quot;,1,2,59),
+  (91187119907112080000,&quot;582&quot;,&quot;16/22&quot;,&quot;11/24&quot;,2,2,60),
+  (66350037095729046000,&quot;814&quot;,&quot;30/22&quot;,&quot;11/24&quot;,1,3,61),
+  (16827998920391107000,&quot;394&quot;,&quot;05/22&quot;,&quot;09/24&quot;,1,1,62),
+  (90393013617628790000,&quot;569&quot;,&quot;24/22&quot;,&quot;08/24&quot;,1,1,63),
+  (51799425497081470000,&quot;385&quot;,&quot;02/21&quot;,&quot;12/24&quot;,1,2,64),
+  (5455522585505923000,&quot;745&quot;,&quot;20/23&quot;,&quot;10/24&quot;,1,1,65),
+  (82336709272982220000,&quot;693&quot;,&quot;09/22&quot;,&quot;02/25&quot;,2,1,66),
+  (50006237682296750000,&quot;743&quot;,&quot;06/23&quot;,&quot;10/24&quot;,1,3,67),
+  (39271577325809020000,&quot;453&quot;,&quot;25/22&quot;,&quot;04/25&quot;,2,2,68),
+  (6314285170431710000,&quot;450&quot;,&quot;21/22&quot;,&quot;09/24&quot;,1,1,69),
+  (4893701339402501000,&quot;522&quot;,&quot;21/21&quot;,&quot;07/25&quot;,2,3,70),
+  (48142733167433470000,&quot;508&quot;,&quot;25/22&quot;,&quot;09/24&quot;,2,2,71),
+  (94292493311556860000,&quot;143&quot;,&quot;12/23&quot;,&quot;05/25&quot;,2,2,72),
+  (81820434618581470000,&quot;183&quot;,&quot;10/23&quot;,&quot;03/25&quot;,2,3,73),
+  (45355809523311290000,&quot;589&quot;,&quot;27/23&quot;,&quot;04/25&quot;,2,2,74),
+  (65100423449336330000,&quot;378&quot;,&quot;05/21&quot;,&quot;04/25&quot;,1,2,75),
+  (47166746866125780000,&quot;337&quot;,&quot;24/22&quot;,&quot;11/24&quot;,1,2,76),
+  (75490932675090020000,&quot;366&quot;,&quot;21/21&quot;,&quot;08/24&quot;,2,1,77),
+  (73523403382689610000,&quot;736&quot;,&quot;08/22&quot;,&quot;04/25&quot;,2,2,78),
+  (81790984808573500000,&quot;382&quot;,&quot;23/22&quot;,&quot;09/24&quot;,1,2,79),
+  (58887754387199200000,&quot;638&quot;,&quot;26/22&quot;,&quot;09/24&quot;,1,1,80),
+  (27167576220340670000,&quot;115&quot;,&quot;19/22&quot;,&quot;02/25&quot;,1,2,81),
+  (37175830456835740000,&quot;518&quot;,&quot;28/22&quot;,&quot;09/24&quot;,1,2,82),
+  (97292141284801280000,&quot;537&quot;,&quot;15/21&quot;,&quot;05/25&quot;,1,2,83),
+  (80532924926199430000,&quot;968&quot;,&quot;01/22&quot;,&quot;02/25&quot;,2,1,84),
+  (79068983337702920000,&quot;127&quot;,&quot;28/22&quot;,&quot;10/24&quot;,1,1,85),
+  (67089854165209100000,&quot;577&quot;,&quot;13/23&quot;,&quot;01/25&quot;,2,2,86),
+  (39545063336778430000,&quot;998&quot;,&quot;06/21&quot;,&quot;07/25&quot;,2,3,87),
+  (35713340602558087000,&quot;740&quot;,&quot;14/23&quot;,&quot;08/24&quot;,1,1,88),
+  (44971769124683880000,&quot;691&quot;,&quot;07/22&quot;,&quot;08/24&quot;,1,2,89),
+  (74688939363852480000,&quot;981&quot;,&quot;22/23&quot;,&quot;08/24&quot;,2,3,90),
+  (20618213370926707000,&quot;255&quot;,&quot;08/23&quot;,&quot;01/25&quot;,2,3,91),
+  (17364132996262095000,&quot;132&quot;,&quot;22/22&quot;,&quot;02/25&quot;,1,2,92),
+  (46607820707748820000,&quot;958&quot;,&quot;19/21&quot;,&quot;05/25&quot;,2,2,93),
+  (9031911927990444000,&quot;319&quot;,&quot;02/22&quot;,&quot;04/25&quot;,1,3,94),
+  (42288204831392150000,&quot;765&quot;,&quot;10/23&quot;,&quot;03/25&quot;,2,2,95),
+  (87170776333995280000,&quot;779&quot;,&quot;09/23&quot;,&quot;11/24&quot;,1,1,96),
+  (56669495737230150000,&quot;150&quot;,&quot;31/22&quot;,&quot;10/24&quot;,2,3,97),
+  (42180471721584010000,&quot;374&quot;,&quot;30/22&quot;,&quot;12/24&quot;,1,3,98),
+  (87589555037063890000,&quot;249&quot;,&quot;06/23&quot;,&quot;01/25&quot;,1,2,99),
+  (97809197714534220000,&quot;404&quot;,&quot;11/22&quot;,&quot;01/25&quot;,2,2,100);
+  
+  --Cantidad 100 -200
+  INSERT INTO cd_cards (cd_num_card,cd_cvv,cd_date_issue,cd_date_expiration,cd_card_id,cd_card_brand_id,account_id)
+VALUES
+  (36203990542166053000,&quot;432&quot;,&quot;04/22&quot;,&quot;02/25&quot;,1,3,101),
+  (27095829382343315000,&quot;249&quot;,&quot;13/22&quot;,&quot;06/25&quot;,2,2,102),
+  (15731197283561960000,&quot;961&quot;,&quot;11/21&quot;,&quot;07/25&quot;,2,2,103),
+  (85976726168035310000,&quot;545&quot;,&quot;06/21&quot;,&quot;12/24&quot;,2,3,104),
+  (39253975198441230000,&quot;797&quot;,&quot;10/22&quot;,&quot;05/25&quot;,1,2,105),
+  (8686390073720785000,&quot;222&quot;,&quot;25/21&quot;,&quot;02/25&quot;,1,2,106),
+  (70769999102018000000,&quot;932&quot;,&quot;27/23&quot;,&quot;12/24&quot;,1,1,107),
+  (35277641619450974000,&quot;131&quot;,&quot;13/22&quot;,&quot;12/24&quot;,1,2,108),
+  (15000629185445646000,&quot;528&quot;,&quot;19/22&quot;,&quot;06/25&quot;,2,1,109),
+  (85675861461707300000,&quot;884&quot;,&quot;13/21&quot;,&quot;07/25&quot;,1,2,110),
+  (52573063150901535000,&quot;513&quot;,&quot;24/21&quot;,&quot;02/25&quot;,1,2,111),
+  (80178031283236010000,&quot;816&quot;,&quot;25/22&quot;,&quot;01/25&quot;,2,1,112),
+  (25386687265550200000,&quot;240&quot;,&quot;15/23&quot;,&quot;02/25&quot;,1,3,113),
+  (51223137884594910000,&quot;714&quot;,&quot;05/21&quot;,&quot;09/24&quot;,1,2,114),
+  (70574963977394045000,&quot;429&quot;,&quot;16/22&quot;,&quot;06/25&quot;,2,2,115),
+  (57196262630155340000,&quot;895&quot;,&quot;01/22&quot;,&quot;08/24&quot;,1,3,116),
+  (48285908546619320000,&quot;712&quot;,&quot;01/22&quot;,&quot;03/25&quot;,1,2,117),
+  (95112594620951180000,&quot;222&quot;,&quot;01/23&quot;,&quot;08/24&quot;,2,1,118),
+  (60676113228077375000,&quot;920&quot;,&quot;22/23&quot;,&quot;10/24&quot;,2,2,119),
+  (13035919070347713000,&quot;684&quot;,&quot;24/22&quot;,&quot;10/24&quot;,2,1,120),
+  (29107459465800800000,&quot;178&quot;,&quot;15/23&quot;,&quot;04/25&quot;,2,3,121),
+  (54921290054681380000,&quot;111&quot;,&quot;17/23&quot;,&quot;03/25&quot;,2,1,122),
+  (64272357767391240000,&quot;439&quot;,&quot;01/21&quot;,&quot;05/25&quot;,2,3,123),
+  (26767661295318934000,&quot;887&quot;,&quot;26/22&quot;,&quot;07/25&quot;,1,2,124),
+  (14911067488806439000,&quot;903&quot;,&quot;12/22&quot;,&quot;09/24&quot;,1,2,125),
+  (73697331619862690000,&quot;714&quot;,&quot;14/22&quot;,&quot;04/25&quot;,1,1,126),
+  (90299316529269540000,&quot;267&quot;,&quot;10/22&quot;,&quot;09/24&quot;,1,3,127),
+  (62986911275542500000,&quot;425&quot;,&quot;18/23&quot;,&quot;06/25&quot;,1,2,128),
+  (80632960170510710000,&quot;173&quot;,&quot;18/21&quot;,&quot;04/25&quot;,2,1,129),
+  (86339274844414230000,&quot;171&quot;,&quot;11/22&quot;,&quot;08/24&quot;,2,3,130),
+  (9407512972362353000,&quot;865&quot;,&quot;14/23&quot;,&quot;10/24&quot;,1,3,131),
+  (45658536667518116000,&quot;910&quot;,&quot;05/22&quot;,&quot;04/25&quot;,1,2,132),
+  (84083537916793060000,&quot;300&quot;,&quot;15/23&quot;,&quot;03/25&quot;,2,1,133),
+  (88430980929377850000,&quot;200&quot;,&quot;17/21&quot;,&quot;05/25&quot;,1,2,134),
+  (97996132489807740000,&quot;681&quot;,&quot;08/22&quot;,&quot;03/25&quot;,2,1,135),
+  (32678159835520360000,&quot;673&quot;,&quot;19/22&quot;,&quot;06/25&quot;,2,1,136),
+  (12643417829797564000,&quot;451&quot;,&quot;25/23&quot;,&quot;05/25&quot;,1,2,137),
+  (21638864568315695000,&quot;910&quot;,&quot;01/21&quot;,&quot;01/25&quot;,2,2,138),
+  (46574861983572030000,&quot;443&quot;,&quot;24/22&quot;,&quot;12/24&quot;,2,1,139),
+  (77302387659852840000,&quot;143&quot;,&quot;02/21&quot;,&quot;09/24&quot;,1,3,140),
+  (14757308103903543000,&quot;225&quot;,&quot;13/21&quot;,&quot;11/24&quot;,2,2,141),
+  (73839063228670360000,&quot;675&quot;,&quot;05/22&quot;,&quot;09/24&quot;,1,2,142),
+  (10665630690126782000,&quot;154&quot;,&quot;13/22&quot;,&quot;04/25&quot;,1,3,143),
+  (47261079192233680000,&quot;193&quot;,&quot;01/23&quot;,&quot;04/25&quot;,1,2,144),
+  (56416638271243395000,&quot;877&quot;,&quot;07/22&quot;,&quot;01/25&quot;,1,2,145),
+  (93464146132434200000,&quot;692&quot;,&quot;10/22&quot;,&quot;11/24&quot;,2,3,146),
+  (98407385897430680000,&quot;434&quot;,&quot;27/22&quot;,&quot;11/24&quot;,2,1,147),
+  (10499941737701990000,&quot;521&quot;,&quot;06/23&quot;,&quot;05/25&quot;,1,2,148),
+  (42666097517904020000,&quot;336&quot;,&quot;07/22&quot;,&quot;05/25&quot;,2,3,149),
+  (78426324716420990000,&quot;206&quot;,&quot;08/22&quot;,&quot;02/25&quot;,2,2,150),
+  (39194826849744940000,&quot;702&quot;,&quot;18/21&quot;,&quot;03/25&quot;,2,3,151),
+  (41276801548265250000,&quot;873&quot;,&quot;08/22&quot;,&quot;12/24&quot;,2,3,152),
+  (45247413274541785000,&quot;717&quot;,&quot;13/23&quot;,&quot;09/24&quot;,1,2,153),
+  (89783700218753300000,&quot;817&quot;,&quot;31/21&quot;,&quot;02/25&quot;,2,3,154),
+  (89397808794421000000,&quot;549&quot;,&quot;29/23&quot;,&quot;09/24&quot;,2,1,155),
+  (90371549983454330000,&quot;569&quot;,&quot;20/22&quot;,&quot;04/25&quot;,1,1,156),
+  (87358493490965790000,&quot;342&quot;,&quot;30/23&quot;,&quot;03/25&quot;,2,2,157),
+  (40372602444577325000,&quot;846&quot;,&quot;10/21&quot;,&quot;09/24&quot;,1,2,158),
+  (55834669659142790000,&quot;840&quot;,&quot;15/21&quot;,&quot;06/25&quot;,2,2,159),
+  (91543527496156820000,&quot;813&quot;,&quot;03/22&quot;,&quot;03/25&quot;,2,2,160),
+  (94459988085593330000,&quot;940&quot;,&quot;29/21&quot;,&quot;08/24&quot;,2,3,161),
+  (63147719040968880000,&quot;247&quot;,&quot;27/22&quot;,&quot;01/25&quot;,2,2,162),
+  (86207216721887330000,&quot;312&quot;,&quot;22/23&quot;,&quot;05/25&quot;,1,2,163),
+  (8701355558814438000,&quot;503&quot;,&quot;16/23&quot;,&quot;10/24&quot;,2,2,164),
+  (61238549378372166000,&quot;717&quot;,&quot;06/23&quot;,&quot;03/25&quot;,2,1,165),
+  (11807424240945895000,&quot;919&quot;,&quot;29/23&quot;,&quot;07/25&quot;,1,2,166),
+  (4206842789911014000,&quot;821&quot;,&quot;21/23&quot;,&quot;02/25&quot;,2,1,167),
+  (2959245586873815600,&quot;877&quot;,&quot;21/22&quot;,&quot;05/25&quot;,1,3,168),
+  (78361157730740670000,&quot;564&quot;,&quot;13/23&quot;,&quot;07/25&quot;,1,1,169),
+  (7403972894863320000,&quot;620&quot;,&quot;06/21&quot;,&quot;10/24&quot;,2,1,170),
+  (30417881734853670000,&quot;326&quot;,&quot;21/21&quot;,&quot;12/24&quot;,2,1,171),
+  (36363669890783814000,&quot;527&quot;,&quot;27/21&quot;,&quot;01/25&quot;,2,2,172),
+  (77633401177816610000,&quot;814&quot;,&quot;28/22&quot;,&quot;12/24&quot;,1,3,173),
+  (55090263342296520000,&quot;320&quot;,&quot;26/22&quot;,&quot;12/24&quot;,2,2,174),
+  (49527205413537810000,&quot;464&quot;,&quot;31/23&quot;,&quot;10/24&quot;,2,2,175),
+  (41178607055764440000,&quot;607&quot;,&quot;12/22&quot;,&quot;10/24&quot;,1,2,176),
+  (40170234681111430000,&quot;727&quot;,&quot;21/22&quot;,&quot;07/25&quot;,2,2,177),
+  (65356266213549130000,&quot;212&quot;,&quot;22/21&quot;,&quot;05/25&quot;,1,2,178),
+  (91933229942261610000,&quot;791&quot;,&quot;08/21&quot;,&quot;04/25&quot;,2,3,179),
+  (71732865328344790000,&quot;320&quot;,&quot;01/23&quot;,&quot;06/25&quot;,1,2,180),
+  (88873510622502390000,&quot;622&quot;,&quot;21/21&quot;,&quot;10/24&quot;,1,3,181),
+  (94096939083186880000,&quot;526&quot;,&quot;02/23&quot;,&quot;03/25&quot;,1,2,182),
+  (64052539130764920000,&quot;163&quot;,&quot;26/23&quot;,&quot;06/25&quot;,2,3,183),
+  (55202363843152090000,&quot;736&quot;,&quot;06/21&quot;,&quot;11/24&quot;,2,3,184),
+  (29409913451743953000,&quot;659&quot;,&quot;13/23&quot;,&quot;03/25&quot;,2,2,185),
+  (94026043020675860000,&quot;801&quot;,&quot;01/21&quot;,&quot;08/24&quot;,1,2,186),
+  (4949138563833699000,&quot;602&quot;,&quot;02/23&quot;,&quot;03/25&quot;,2,3,187),
+  (71044120008806425000,&quot;996&quot;,&quot;06/23&quot;,&quot;02/25&quot;,1,1,188),
+  (83889341110495000000,&quot;989&quot;,&quot;26/22&quot;,&quot;03/25&quot;,2,2,189),
+  (42425678855395100000,&quot;966&quot;,&quot;26/23&quot;,&quot;11/24&quot;,1,2,190),
+  (18622277129209074000,&quot;277&quot;,&quot;02/22&quot;,&quot;04/25&quot;,2,1,191),
+  (13300758714633964000,&quot;513&quot;,&quot;24/23&quot;,&quot;06/25&quot;,2,2,192),
+  (87481121059756470000,&quot;936&quot;,&quot;14/22&quot;,&quot;11/24&quot;,1,3,193),
+  (48173576812209040000,&quot;273&quot;,&quot;15/23&quot;,&quot;12/24&quot;,2,2,194),
+  (87537265811269420000,&quot;431&quot;,&quot;29/22&quot;,&quot;05/25&quot;,1,3,195),
+  (3162631879067002000,&quot;230&quot;,&quot;14/23&quot;,&quot;07/25&quot;,2,2,196),
+  (33819732959779316000,&quot;222&quot;,&quot;28/23&quot;,&quot;01/25&quot;,2,2,197),
+  (65614421379201660000,&quot;346&quot;,&quot;21/22&quot;,&quot;07/25&quot;,1,1,198),
+  (60853385531585855000,&quot;125&quot;,&quot;23/23&quot;,&quot;08/24&quot;,1,2,199);
+  
+  -- 200 -- 300
+  INSERT INTO cd_cards (cd_num_card,cd_cvv,cd_date_issue,cd_date_expiration,cd_card_id,cd_card_brand_id,account_id)
+VALUES
+  (65401141679958340000,&quot;278&quot;,&quot;16/21&quot;,&quot;04/25&quot;,2,2,200),
+  (23243734651260240000,&quot;979&quot;,&quot;23/22&quot;,&quot;05/25&quot;,2,3,201),
+  (7284501632426710000,&quot;888&quot;,&quot;23/23&quot;,&quot;02/25&quot;,1,1,202),
+  (2373794111366689300,&quot;480&quot;,&quot;21/22&quot;,&quot;01/25&quot;,2,2,203),
+  (9712181342719384000,&quot;741&quot;,&quot;24/21&quot;,&quot;09/24&quot;,2,1,204),
+  (23735367668545050000,&quot;660&quot;,&quot;30/23&quot;,&quot;02/25&quot;,1,3,205),
+  (69527569000164110000,&quot;588&quot;,&quot;12/23&quot;,&quot;12/24&quot;,1,2,206),
+  (33948393693648306000,&quot;380&quot;,&quot;30/23&quot;,&quot;03/25&quot;,2,2,207),
+  (44605434309429600000,&quot;543&quot;,&quot;17/22&quot;,&quot;12/24&quot;,2,2,208),
+  (91436882601521560000,&quot;955&quot;,&quot;11/22&quot;,&quot;03/25&quot;,1,3,209),
+  (79851962850521060000,&quot;424&quot;,&quot;23/21&quot;,&quot;05/25&quot;,1,2,210),
+  (11364575736926796000,&quot;744&quot;,&quot;21/22&quot;,&quot;12/24&quot;,1,2,211),
+  (57407905617171060000,&quot;949&quot;,&quot;02/22&quot;,&quot;11/24&quot;,2,2,212),
+  (30574455082683390000,&quot;930&quot;,&quot;03/23&quot;,&quot;10/24&quot;,1,2,213),
+  (56529458189605420000,&quot;672&quot;,&quot;01/21&quot;,&quot;10/24&quot;,2,2,214),
+  (34418077233766130000,&quot;399&quot;,&quot;04/22&quot;,&quot;05/25&quot;,1,3,215),
+  (30007656603600454000,&quot;362&quot;,&quot;17/23&quot;,&quot;10/24&quot;,2,1,216),
+  (76448955582195420000,&quot;597&quot;,&quot;25/22&quot;,&quot;04/25&quot;,1,2,217),
+  (89856239213602290000,&quot;699&quot;,&quot;01/21&quot;,&quot;07/24&quot;,2,2,218),
+  (17427939628056599000,&quot;425&quot;,&quot;20/22&quot;,&quot;06/25&quot;,2,3,219),
+  (93844162684984050000,&quot;708&quot;,&quot;04/22&quot;,&quot;08/24&quot;,2,3,220),
+  (48997213017285970000,&quot;305&quot;,&quot;27/23&quot;,&quot;10/24&quot;,1,2,221),
+  (83905365301930510000,&quot;846&quot;,&quot;31/22&quot;,&quot;08/24&quot;,1,2,222),
+  (29991230349955990000,&quot;978&quot;,&quot;01/22&quot;,&quot;07/25&quot;,2,3,223),
+  (21216583344267570000,&quot;481&quot;,&quot;19/21&quot;,&quot;11/24&quot;,1,2,224),
+  (30024383071660597000,&quot;566&quot;,&quot;22/22&quot;,&quot;06/25&quot;,1,3,225),
+  (3801115943011868000,&quot;819&quot;,&quot;14/21&quot;,&quot;11/24&quot;,2,1,226),
+  (33174854627141005000,&quot;886&quot;,&quot;04/21&quot;,&quot;04/25&quot;,2,2,227),
+  (65202650955073820000,&quot;739&quot;,&quot;13/22&quot;,&quot;01/25&quot;,1,2,228),
+  (87037462566241850000,&quot;762&quot;,&quot;05/22&quot;,&quot;05/25&quot;,2,2,229),
+  (46767296997107310000,&quot;952&quot;,&quot;05/22&quot;,&quot;10/24&quot;,2,1,230),
+  (71827782216644300000,&quot;348&quot;,&quot;14/23&quot;,&quot;04/25&quot;,1,1,231),
+  (49094133576704066000,&quot;489&quot;,&quot;30/21&quot;,&quot;11/24&quot;,2,3,232),
+  (31606596168293175000,&quot;662&quot;,&quot;12/21&quot;,&quot;11/24&quot;,1,1,233),
+  (68482417511054660000,&quot;874&quot;,&quot;23/22&quot;,&quot;11/24&quot;,2,2,234),
+  (41784350545247674000,&quot;930&quot;,&quot;04/22&quot;,&quot;10/24&quot;,1,3,235),
+  (71940808393859170000,&quot;256&quot;,&quot;22/22&quot;,&quot;11/24&quot;,1,2,236),
+  (54803480015343920000,&quot;869&quot;,&quot;02/23&quot;,&quot;04/25&quot;,2,2,237),
+  (74347438249838720000,&quot;981&quot;,&quot;05/22&quot;,&quot;09/24&quot;,1,1,238),
+  (36572160594322200000,&quot;516&quot;,&quot;07/22&quot;,&quot;08/24&quot;,2,1,239),
+  (89397124727701540000,&quot;773&quot;,&quot;30/23&quot;,&quot;11/24&quot;,2,2,240),
+  (47329453521196750000,&quot;494&quot;,&quot;12/22&quot;,&quot;04/25&quot;,1,1,241),
+  (95457410147817390000,&quot;692&quot;,&quot;19/21&quot;,&quot;01/25&quot;,1,2,242),
+  (72171670412457530000,&quot;660&quot;,&quot;29/23&quot;,&quot;03/25&quot;,2,1,243),
+  (85558511725605980000,&quot;782&quot;,&quot;12/21&quot;,&quot;07/25&quot;,1,3,244),
+  (25774878331002450000,&quot;817&quot;,&quot;01/21&quot;,&quot;03/25&quot;,1,2,245),
+  (12106881978997586000,&quot;137&quot;,&quot;28/22&quot;,&quot;06/25&quot;,1,2,246),
+  (3515409890705445400,&quot;727&quot;,&quot;02/23&quot;,&quot;10/24&quot;,2,2,247),
+  (47657034495051850000,&quot;310&quot;,&quot;04/23&quot;,&quot;01/25&quot;,1,2,248),
+  (98956271193950390000,&quot;565&quot;,&quot;18/22&quot;,&quot;07/25&quot;,1,3,249),
+  (40573667803121750000,&quot;538&quot;,&quot;20/23&quot;,&quot;02/25&quot;,1,2,250),
+  (2048101074165065200,&quot;902&quot;,&quot;02/22&quot;,&quot;02/25&quot;,1,2,251),
+  (83540036207213220000,&quot;593&quot;,&quot;18/23&quot;,&quot;11/24&quot;,2,1,252),
+  (35334427999751840000,&quot;831&quot;,&quot;01/21&quot;,&quot;12/24&quot;,2,1,253),
+  (65317322112911060000,&quot;134&quot;,&quot;10/21&quot;,&quot;03/25&quot;,1,1,254),
+  (72848268785837720000,&quot;346&quot;,&quot;20/23&quot;,&quot;01/25&quot;,2,2,255),
+  (78567312316702980000,&quot;460&quot;,&quot;07/22&quot;,&quot;11/24&quot;,2,1,256),
+  (51311020858718750000,&quot;544&quot;,&quot;08/23&quot;,&quot;12/24&quot;,1,1,257),
+  (91505418464528400000,&quot;409&quot;,&quot;28/21&quot;,&quot;04/25&quot;,1,2,258),
+  (31869691549915947000,&quot;381&quot;,&quot;05/22&quot;,&quot;12/24&quot;,1,1,259),
+  (75590844001077300000,&quot;349&quot;,&quot;30/23&quot;,&quot;12/24&quot;,2,1,260),
+  (54482558743718300000,&quot;291&quot;,&quot;21/22&quot;,&quot;04/25&quot;,2,3,261),
+  (60329670437626495000,&quot;216&quot;,&quot;26/22&quot;,&quot;02/25&quot;,2,2,262),
+  (47092805270377540000,&quot;533&quot;,&quot;19/22&quot;,&quot;05/25&quot;,1,2,263),
+  (83800330808862750000,&quot;557&quot;,&quot;13/22&quot;,&quot;12/24&quot;,1,1,264),
+  (63994380951743830000,&quot;348&quot;,&quot;06/22&quot;,&quot;06/25&quot;,2,2,265),
+  (17833104054606320000,&quot;187&quot;,&quot;06/21&quot;,&quot;12/24&quot;,1,2,266),
+  (75884789365823130000,&quot;502&quot;,&quot;02/22&quot;,&quot;09/24&quot;,1,3,267),
+  (70358663489887800000,&quot;289&quot;,&quot;06/22&quot;,&quot;03/25&quot;,2,3,268),
+  (3868746869575523300,&quot;240&quot;,&quot;11/22&quot;,&quot;08/24&quot;,2,1,269),
+  (87217324864165890000,&quot;558&quot;,&quot;31/21&quot;,&quot;05/25&quot;,1,1,270),
+  (68935212622179566000,&quot;192&quot;,&quot;04/21&quot;,&quot;12/24&quot;,2,3,271),
+  (72799479224381460000,&quot;617&quot;,&quot;31/21&quot;,&quot;11/24&quot;,2,2,272),
+  (6263376896271033000,&quot;436&quot;,&quot;16/22&quot;,&quot;11/24&quot;,1,3,273),
+  (45769220656333400000,&quot;707&quot;,&quot;19/21&quot;,&quot;06/25&quot;,2,1,274),
+  (5115830280320166000,&quot;396&quot;,&quot;19/22&quot;,&quot;12/24&quot;,2,2,275),
+  (47067313930438460000,&quot;624&quot;,&quot;03/23&quot;,&quot;12/24&quot;,1,1,276),
+  (74171851458880370000,&quot;524&quot;,&quot;12/23&quot;,&quot;03/25&quot;,1,3,277),
+  (61335136724202455000,&quot;242&quot;,&quot;21/22&quot;,&quot;10/24&quot;,2,2,278),
+  (32383595662569320000,&quot;645&quot;,&quot;29/22&quot;,&quot;01/25&quot;,1,2,279),
+  (14763011648503265000,&quot;552&quot;,&quot;04/22&quot;,&quot;12/24&quot;,2,3,280),
+  (7792990250925214000,&quot;268&quot;,&quot;04/22&quot;,&quot;12/24&quot;,2,2,281),
+  (15214382351026657000,&quot;984&quot;,&quot;26/22&quot;,&quot;03/25&quot;,2,1,282),
+  (10693335454389530000,&quot;397&quot;,&quot;22/22&quot;,&quot;07/25&quot;,1,3,283),
+  (43833048842582610000,&quot;550&quot;,&quot;08/21&quot;,&quot;09/24&quot;,1,2,284),
+  (57622803104119980000,&quot;590&quot;,&quot;22/23&quot;,&quot;08/24&quot;,2,1,285),
+  (32672093498020004000,&quot;890&quot;,&quot;27/23&quot;,&quot;07/25&quot;,2,1,286),
+  (57305717965526660000,&quot;317&quot;,&quot;21/21&quot;,&quot;12/24&quot;,2,1,287),
+  (60072005640011825000,&quot;131&quot;,&quot;01/22&quot;,&quot;09/24&quot;,2,2,288),
+  (4717518403340227000,&quot;250&quot;,&quot;23/22&quot;,&quot;08/24&quot;,2,2,289),
+  (97559603182532760000,&quot;433&quot;,&quot;13/21&quot;,&quot;01/25&quot;,1,2,290),
+  (61479218367907570000,&quot;211&quot;,&quot;03/21&quot;,&quot;07/25&quot;,1,2,291),
+  (88162987611840000000,&quot;847&quot;,&quot;07/22&quot;,&quot;02/25&quot;,1,3,292),
+  (20420370248969875000,&quot;172&quot;,&quot;03/22&quot;,&quot;12/24&quot;,2,2,293),
+  (48061204727663040000,&quot;327&quot;,&quot;28/23&quot;,&quot;04/25&quot;,2,3,294),
+  (65136286724685520000,&quot;781&quot;,&quot;26/22&quot;,&quot;04/25&quot;,2,2,295),
+  (13172242262508970000,&quot;669&quot;,&quot;07/23&quot;,&quot;06/25&quot;,2,2,296),
+  (58837600141776700000,&quot;259&quot;,&quot;17/23&quot;,&quot;05/25&quot;,1,2,297),
+  (40298850278641990000,&quot;471&quot;,&quot;27/23&quot;,&quot;07/25&quot;,1,3,298),
+  (42991158201417520000,&quot;774&quot;,&quot;18/22&quot;,&quot;04/25&quot;,2,2,299);
+  
+  --300 -- 400
+  INSERT INTO cd_cards (cd_num_card,cd_cvv,cd_date_issue,cd_date_expiration,cd_card_id,cd_card_brand_id,account_id)
+VALUES
+  (2915379215551850000,&quot;496&quot;,&quot;17/21&quot;,&quot;09/24&quot;,1,3,300),
+  (40840895375352005000,&quot;953&quot;,&quot;20/21&quot;,&quot;05/25&quot;,1,1,301),
+  (5046096767921449000,&quot;830&quot;,&quot;29/21&quot;,&quot;05/25&quot;,2,3,302),
+  (44233360555052490000,&quot;521&quot;,&quot;21/23&quot;,&quot;02/25&quot;,1,2,303),
+  (17110245549870152000,&quot;744&quot;,&quot;18/22&quot;,&quot;06/25&quot;,2,3,304),
+  (99708985809359960000,&quot;504&quot;,&quot;21/22&quot;,&quot;03/25&quot;,2,1,305),
+  (7182724018164777000,&quot;793&quot;,&quot;09/22&quot;,&quot;04/25&quot;,1,2,306),
+  (57833465016412270000,&quot;700&quot;,&quot;05/23&quot;,&quot;10/24&quot;,1,2,307),
+  (16006951660696834000,&quot;873&quot;,&quot;11/21&quot;,&quot;02/25&quot;,1,2,308),
+  (22212955668282384000,&quot;656&quot;,&quot;04/22&quot;,&quot;05/25&quot;,1,2,309),
+  (81865279509632160000,&quot;675&quot;,&quot;04/23&quot;,&quot;10/24&quot;,2,2,310),
+  (78172321038478930000,&quot;140&quot;,&quot;15/22&quot;,&quot;03/25&quot;,1,2,311),
+  (68536171096484580000,&quot;609&quot;,&quot;04/22&quot;,&quot;09/24&quot;,2,2,312),
+  (25827555703787520000,&quot;569&quot;,&quot;02/21&quot;,&quot;05/25&quot;,1,3,313),
+  (4353697942019430000,&quot;557&quot;,&quot;14/23&quot;,&quot;07/25&quot;,1,2,314),
+  (78713446450620480000,&quot;436&quot;,&quot;15/23&quot;,&quot;08/24&quot;,2,3,315),
+  (73856934665518430000,&quot;464&quot;,&quot;13/22&quot;,&quot;08/24&quot;,2,2,316),
+  (55424041854738375000,&quot;704&quot;,&quot;01/23&quot;,&quot;07/25&quot;,1,2,317),
+  (96134943269894280000,&quot;632&quot;,&quot;09/23&quot;,&quot;04/25&quot;,2,2,318),
+  (81241299586562740000,&quot;288&quot;,&quot;08/22&quot;,&quot;11/24&quot;,2,1,319),
+  (373371076608997060,&quot;457&quot;,&quot;05/22&quot;,&quot;11/24&quot;,2,1,320),
+  (815247633511551100,&quot;662&quot;,&quot;21/23&quot;,&quot;02/25&quot;,2,2,321),
+  (29903821879246670000,&quot;786&quot;,&quot;26/22&quot;,&quot;05/25&quot;,1,2,322),
+  (90934296956251650000,&quot;270&quot;,&quot;12/23&quot;,&quot;09/24&quot;,1,3,323),
+  (89712311124700020000,&quot;385&quot;,&quot;06/21&quot;,&quot;04/25&quot;,1,2,324),
+  (71409417410367080000,&quot;161&quot;,&quot;15/23&quot;,&quot;07/25&quot;,2,2,325),
+  (15647499029472444000,&quot;989&quot;,&quot;15/23&quot;,&quot;07/25&quot;,1,2,326),
+  (95148585934991300000,&quot;775&quot;,&quot;24/22&quot;,&quot;10/24&quot;,2,2,327),
+  (32399666097608757000,&quot;301&quot;,&quot;29/23&quot;,&quot;06/25&quot;,2,2,328),
+  (51836432863842430000,&quot;512&quot;,&quot;22/22&quot;,&quot;04/25&quot;,2,1,329),
+  (52051275446408580000,&quot;382&quot;,&quot;16/23&quot;,&quot;07/25&quot;,1,2,330),
+  (21646290951007740000,&quot;219&quot;,&quot;03/22&quot;,&quot;04/25&quot;,2,1,331),
+  (81752029708940300000,&quot;199&quot;,&quot;05/21&quot;,&quot;08/24&quot;,1,2,332),
+  (47191415323177210000,&quot;959&quot;,&quot;30/23&quot;,&quot;11/24&quot;,1,1,333),
+  (82871197929127540000,&quot;171&quot;,&quot;03/22&quot;,&quot;02/25&quot;,1,2,334),
+  (37063831206106235000,&quot;335&quot;,&quot;25/23&quot;,&quot;11/24&quot;,2,2,335),
+  (82268199414457650000,&quot;580&quot;,&quot;14/22&quot;,&quot;09/24&quot;,1,2,336),
+  (66655480369018760000,&quot;856&quot;,&quot;12/23&quot;,&quot;01/25&quot;,2,2,337),
+  (42038652331116765000,&quot;625&quot;,&quot;31/23&quot;,&quot;09/24&quot;,1,2,338),
+  (57207858496115870000,&quot;405&quot;,&quot;17/22&quot;,&quot;03/25&quot;,1,1,339),
+  (52870030277792825000,&quot;995&quot;,&quot;28/22&quot;,&quot;06/25&quot;,1,2,340),
+  (23747800387503792000,&quot;321&quot;,&quot;13/23&quot;,&quot;05/25&quot;,1,2,341),
+  (36286961276299424000,&quot;631&quot;,&quot;20/22&quot;,&quot;11/24&quot;,2,3,342),
+  (18055226304050452000,&quot;540&quot;,&quot;18/23&quot;,&quot;04/25&quot;,2,2,343),
+  (96968407905445990000,&quot;211&quot;,&quot;25/22&quot;,&quot;08/24&quot;,1,2,344),
+  (68514483917779750000,&quot;229&quot;,&quot;24/21&quot;,&quot;03/25&quot;,1,2,345),
+  (13961853599559193000,&quot;930&quot;,&quot;13/23&quot;,&quot;04/25&quot;,1,2,346),
+  (94891496697166600000,&quot;181&quot;,&quot;07/21&quot;,&quot;10/24&quot;,1,3,347),
+  (26912922452683776000,&quot;876&quot;,&quot;24/23&quot;,&quot;04/25&quot;,2,1,348),
+  (6223546467481999000,&quot;154&quot;,&quot;22/23&quot;,&quot;12/24&quot;,2,1,349),
+  (34168167735060484000,&quot;206&quot;,&quot;06/23&quot;,&quot;11/24&quot;,2,3,350),
+  (50995023945382890000,&quot;649&quot;,&quot;15/22&quot;,&quot;06/25&quot;,1,2,351),
+  (19358592424457544000,&quot;137&quot;,&quot;22/22&quot;,&quot;08/24&quot;,1,2,352),
+  (6109930742039205000,&quot;142&quot;,&quot;15/21&quot;,&quot;02/25&quot;,1,1,353),
+  (74848543537808670000,&quot;568&quot;,&quot;26/22&quot;,&quot;09/24&quot;,2,2,354),
+  (83676634550421270000,&quot;577&quot;,&quot;26/22&quot;,&quot;12/24&quot;,2,1,355),
+  (57428459641650590000,&quot;535&quot;,&quot;15/23&quot;,&quot;12/24&quot;,2,2,356),
+  (29321379238797560000,&quot;526&quot;,&quot;10/21&quot;,&quot;09/24&quot;,1,2,357),
+  (80307870582215880000,&quot;898&quot;,&quot;19/22&quot;,&quot;02/25&quot;,1,2,358),
+  (97263250708255100000,&quot;553&quot;,&quot;24/23&quot;,&quot;04/25&quot;,1,2,359),
+  (65470413955202520000,&quot;543&quot;,&quot;03/21&quot;,&quot;06/25&quot;,1,3,360),
+  (16635651008424235000,&quot;163&quot;,&quot;17/22&quot;,&quot;11/24&quot;,2,2,361),
+  (37026937889152850000,&quot;643&quot;,&quot;05/23&quot;,&quot;01/25&quot;,2,2,362),
+  (23420943635984146000,&quot;714&quot;,&quot;15/22&quot;,&quot;11/24&quot;,2,2,363),
+  (6653140519751432000,&quot;226&quot;,&quot;20/22&quot;,&quot;07/25&quot;,1,1,364),
+  (22552848279611572000,&quot;552&quot;,&quot;31/21&quot;,&quot;10/24&quot;,2,3,365),
+  (83580382548264370000,&quot;724&quot;,&quot;05/22&quot;,&quot;01/25&quot;,1,2,366),
+  (6419432036183314000,&quot;354&quot;,&quot;24/22&quot;,&quot;05/25&quot;,2,2,367),
+  (118893439723599660,&quot;729&quot;,&quot;15/22&quot;,&quot;11/24&quot;,2,2,368),
+  (59802300289223200000,&quot;868&quot;,&quot;10/21&quot;,&quot;08/24&quot;,1,2,369),
+  (73034939966777060000,&quot;534&quot;,&quot;27/21&quot;,&quot;07/25&quot;,1,3,370),
+  (13857814177361693000,&quot;451&quot;,&quot;10/22&quot;,&quot;01/25&quot;,1,3,371),
+  (47253487871874270000,&quot;242&quot;,&quot;16/22&quot;,&quot;08/24&quot;,1,2,372),
+  (69389599151036880000,&quot;437&quot;,&quot;25/22&quot;,&quot;03/25&quot;,2,2,373),
+  (90944835493361830000,&quot;642&quot;,&quot;02/23&quot;,&quot;11/24&quot;,1,3,374),
+  (91067983580785210000,&quot;413&quot;,&quot;03/22&quot;,&quot;02/25&quot;,2,2,375),
+  (41821180415932990000,&quot;773&quot;,&quot;15/22&quot;,&quot;12/24&quot;,1,1,376),
+  (43475535874110170000,&quot;904&quot;,&quot;09/22&quot;,&quot;03/25&quot;,2,2,377),
+  (74856007608518380000,&quot;750&quot;,&quot;21/22&quot;,&quot;01/25&quot;,1,3,378),
+  (33408056323919344000,&quot;252&quot;,&quot;28/21&quot;,&quot;12/24&quot;,2,1,379),
+  (118039228369282160,&quot;433&quot;,&quot;10/22&quot;,&quot;01/25&quot;,2,1,380),
+  (23234972084837536000,&quot;243&quot;,&quot;16/22&quot;,&quot;06/25&quot;,1,1,381),
+  (11603272255493335000,&quot;402&quot;,&quot;02/22&quot;,&quot;11/24&quot;,1,2,382),
+  (54581296699555720000,&quot;495&quot;,&quot;15/21&quot;,&quot;10/24&quot;,2,2,383),
+  (49545048034206515000,&quot;570&quot;,&quot;15/23&quot;,&quot;01/25&quot;,2,2,384),
+  (76684160319038200000,&quot;225&quot;,&quot;20/21&quot;,&quot;06/25&quot;,2,3,385),
+  (9254433342949642000,&quot;392&quot;,&quot;29/22&quot;,&quot;05/25&quot;,2,1,386),
+  (70933978348944950000,&quot;959&quot;,&quot;05/23&quot;,&quot;02/25&quot;,2,2,387),
+  (60598442101659100000,&quot;172&quot;,&quot;16/22&quot;,&quot;07/25&quot;,1,1,388),
+  (47576504547867080000,&quot;246&quot;,&quot;20/22&quot;,&quot;10/24&quot;,2,2,389),
+  (60398693501635270000,&quot;543&quot;,&quot;12/22&quot;,&quot;11/24&quot;,1,3,390),
+  (29291521756037710000,&quot;122&quot;,&quot;19/23&quot;,&quot;10/24&quot;,2,2,391),
+  (51487044606860980000,&quot;671&quot;,&quot;04/21&quot;,&quot;07/25&quot;,2,2,392),
+  (94801084909440160000,&quot;944&quot;,&quot;22/21&quot;,&quot;01/25&quot;,2,1,393),
+  (75269320852981240000,&quot;674&quot;,&quot;14/23&quot;,&quot;04/25&quot;,2,3,394),
+  (48030893617688980000,&quot;445&quot;,&quot;16/23&quot;,&quot;06/25&quot;,2,1,395),
+  (64010358424173060000,&quot;818&quot;,&quot;28/22&quot;,&quot;07/25&quot;,2,2,396),
+  (18304090696027010000,&quot;724&quot;,&quot;19/22&quot;,&quot;03/25&quot;,2,1,397),
+  (19004317638043312000,&quot;661&quot;,&quot;15/22&quot;,&quot;06/25&quot;,1,2,398),
+  (75253511888733860000,&quot;300&quot;,&quot;09/22&quot;,&quot;05/25&quot;,2,1,399);
+  
+  --400 -- 500
+  INSERT INTO cd_cards (cd_num_card,cd_cvv,cd_date_issue,cd_date_expiration,cd_card_id,cd_card_brand_id,account_id)
+VALUES
+  (29381646033889554000,&quot;989&quot;,&quot;09/22&quot;,&quot;07/25&quot;,2,2,400),
+  (77779145058629940000,&quot;193&quot;,&quot;12/23&quot;,&quot;01/25&quot;,2,3,401),
+  (35156512392474882000,&quot;266&quot;,&quot;02/22&quot;,&quot;07/25&quot;,2,2,402),
+  (85684473244805170000,&quot;355&quot;,&quot;22/22&quot;,&quot;05/25&quot;,1,2,403),
+  (85874690539132420000,&quot;459&quot;,&quot;24/23&quot;,&quot;05/25&quot;,1,2,404),
+  (23662188006968377000,&quot;621&quot;,&quot;01/23&quot;,&quot;07/25&quot;,1,2,405),
+  (206531644308616260,&quot;475&quot;,&quot;02/22&quot;,&quot;09/24&quot;,1,3,406),
+  (97845177843450120000,&quot;978&quot;,&quot;22/22&quot;,&quot;05/25&quot;,2,1,407),
+  (23979553719750580000,&quot;200&quot;,&quot;13/22&quot;,&quot;09/24&quot;,1,1,408),
+  (46667708137543020000,&quot;682&quot;,&quot;04/22&quot;,&quot;08/24&quot;,1,3,409),
+  (38885815876778570000,&quot;692&quot;,&quot;07/22&quot;,&quot;04/25&quot;,2,2,410),
+  (89727621842968360000,&quot;797&quot;,&quot;04/22&quot;,&quot;05/25&quot;,1,1,411),
+  (81590616679868860000,&quot;683&quot;,&quot;05/23&quot;,&quot;02/25&quot;,1,2,412),
+  (36275268876317557000,&quot;996&quot;,&quot;05/21&quot;,&quot;03/25&quot;,2,2,413),
+  (61234802291323540000,&quot;571&quot;,&quot;11/22&quot;,&quot;01/25&quot;,2,3,414),
+  (75438675061156380000,&quot;267&quot;,&quot;19/23&quot;,&quot;03/25&quot;,2,3,415),
+  (3235536048105736000,&quot;123&quot;,&quot;02/22&quot;,&quot;03/25&quot;,1,1,416),
+  (61012453658645650000,&quot;549&quot;,&quot;03/23&quot;,&quot;07/25&quot;,2,1,417),
+  (83818286613633840000,&quot;940&quot;,&quot;01/22&quot;,&quot;08/24&quot;,2,1,418),
+  (7666907278093249000,&quot;864&quot;,&quot;15/22&quot;,&quot;07/25&quot;,2,2,419),
+  (90187887027813990000,&quot;495&quot;,&quot;05/23&quot;,&quot;07/25&quot;,1,1,420),
+  (66290948731352690000,&quot;836&quot;,&quot;08/22&quot;,&quot;12/24&quot;,2,2,421),
+  (31384915154808857000,&quot;572&quot;,&quot;15/21&quot;,&quot;08/24&quot;,1,2,422),
+  (60825933584904780000,&quot;254&quot;,&quot;14/21&quot;,&quot;08/24&quot;,1,3,423),
+  (51522531235009560000,&quot;884&quot;,&quot;20/23&quot;,&quot;10/24&quot;,1,1,424),
+  (18392950217618199000,&quot;948&quot;,&quot;25/23&quot;,&quot;01/25&quot;,1,2,425),
+  (31980352303205640000,&quot;602&quot;,&quot;02/21&quot;,&quot;02/25&quot;,1,1,426),
+  (58349152343031060000,&quot;896&quot;,&quot;17/21&quot;,&quot;03/25&quot;,1,2,427),
+  (77716071370334290000,&quot;986&quot;,&quot;08/23&quot;,&quot;06/25&quot;,1,3,428),
+  (54200936916651246000,&quot;964&quot;,&quot;14/21&quot;,&quot;02/25&quot;,1,2,429),
+  (46253321631280270000,&quot;483&quot;,&quot;10/22&quot;,&quot;08/24&quot;,2,1,430),
+  (725824765873195400,&quot;209&quot;,&quot;14/22&quot;,&quot;03/25&quot;,2,2,431),
+  (14193875672000900000,&quot;469&quot;,&quot;25/21&quot;,&quot;01/25&quot;,2,1,432),
+  (79028182447623080000,&quot;497&quot;,&quot;20/22&quot;,&quot;08/24&quot;,2,2,433),
+  (63447120617790610000,&quot;280&quot;,&quot;26/23&quot;,&quot;05/25&quot;,2,2,434),
+  (75419049750014800000,&quot;904&quot;,&quot;04/22&quot;,&quot;06/25&quot;,2,3,435),
+  (74315899935121080000,&quot;534&quot;,&quot;07/21&quot;,&quot;06/25&quot;,2,2,436),
+  (60446238920569500000,&quot;476&quot;,&quot;22/23&quot;,&quot;01/25&quot;,1,1,437),
+  (37878682195113790000,&quot;760&quot;,&quot;30/22&quot;,&quot;02/25&quot;,2,2,438),
+  (39677925265985040000,&quot;865&quot;,&quot;10/21&quot;,&quot;12/24&quot;,2,3,439),
+  (76012641866592110000,&quot;395&quot;,&quot;15/21&quot;,&quot;04/25&quot;,1,1,440),
+  (179534780590406850,&quot;502&quot;,&quot;30/23&quot;,&quot;11/24&quot;,1,2,441),
+  (44662029089105306000,&quot;959&quot;,&quot;05/22&quot;,&quot;09/24&quot;,1,1,442),
+  (31386642140282794000,&quot;534&quot;,&quot;11/22&quot;,&quot;12/24&quot;,1,1,443),
+  (38026440370226045000,&quot;947&quot;,&quot;09/22&quot;,&quot;07/25&quot;,1,3,444),
+  (4679677053488529000,&quot;114&quot;,&quot;06/23&quot;,&quot;03/25&quot;,2,1,445),
+  (39709194036000104000,&quot;320&quot;,&quot;07/21&quot;,&quot;10/24&quot;,1,2,446),
+  (1063214386596289500,&quot;236&quot;,&quot;13/23&quot;,&quot;07/25&quot;,2,2,447),
+  (64045561079812470000,&quot;741&quot;,&quot;18/22&quot;,&quot;10/24&quot;,2,2,448),
+  (68454024054706060000,&quot;321&quot;,&quot;07/23&quot;,&quot;05/25&quot;,1,2,449),
+  (96642314218787050000,&quot;422&quot;,&quot;23/22&quot;,&quot;02/25&quot;,2,2,450),
+  (53784403643165340000,&quot;650&quot;,&quot;21/23&quot;,&quot;06/25&quot;,2,2,451),
+  (52443191583297225000,&quot;443&quot;,&quot;26/22&quot;,&quot;06/25&quot;,1,3,452),
+  (43761264291716120000,&quot;445&quot;,&quot;27/22&quot;,&quot;09/24&quot;,1,3,453),
+  (76393273868412730000,&quot;261&quot;,&quot;06/21&quot;,&quot;08/24&quot;,1,2,454),
+  (25144719257506034000,&quot;122&quot;,&quot;15/23&quot;,&quot;10/24&quot;,2,2,455),
+  (25082811213437140000,&quot;142&quot;,&quot;05/22&quot;,&quot;03/25&quot;,2,2,456),
+  (71003521799844440000,&quot;492&quot;,&quot;23/21&quot;,&quot;08/24&quot;,1,2,457),
+  (63401094940759140000,&quot;181&quot;,&quot;17/23&quot;,&quot;07/25&quot;,2,2,458),
+  (61938867697077970000,&quot;164&quot;,&quot;16/21&quot;,&quot;06/25&quot;,2,2,459),
+  (49946982539208350000,&quot;550&quot;,&quot;15/21&quot;,&quot;07/25&quot;,2,2,460),
+  (80416007056569190000,&quot;429&quot;,&quot;21/22&quot;,&quot;02/25&quot;,2,2,461),
+  (34350804778488420000,&quot;355&quot;,&quot;14/23&quot;,&quot;08/24&quot;,1,2,462),
+  (84170763180262420000,&quot;560&quot;,&quot;28/22&quot;,&quot;08/24&quot;,2,3,463),
+  (87726537548518380000,&quot;307&quot;,&quot;24/22&quot;,&quot;05/25&quot;,2,1,464),
+  (8134205890450641000,&quot;513&quot;,&quot;23/22&quot;,&quot;05/25&quot;,2,2,465),
+  (23737882122841137000,&quot;869&quot;,&quot;13/21&quot;,&quot;07/25&quot;,2,1,466),
+  (22428820046754705000,&quot;777&quot;,&quot;09/22&quot;,&quot;08/24&quot;,1,2,467),
+  (89493256284928540000,&quot;994&quot;,&quot;27/22&quot;,&quot;08/24&quot;,1,1,468),
+  (82766924714673240000,&quot;486&quot;,&quot;12/23&quot;,&quot;06/25&quot;,1,1,469),
+  (23394576384225927000,&quot;383&quot;,&quot;15/21&quot;,&quot;08/24&quot;,2,2,470),
+  (83773567964878050000,&quot;251&quot;,&quot;05/21&quot;,&quot;07/25&quot;,2,3,471),
+  (78334113547053580000,&quot;565&quot;,&quot;13/23&quot;,&quot;10/24&quot;,2,2,472),
+  (40868398432261310000,&quot;350&quot;,&quot;12/23&quot;,&quot;10/24&quot;,2,2,473),
+  (64523518900796310000,&quot;339&quot;,&quot;16/22&quot;,&quot;04/25&quot;,2,2,474),
+  (33812231048945574000,&quot;810&quot;,&quot;30/21&quot;,&quot;11/24&quot;,1,3,475),
+  (40511867425197550000,&quot;512&quot;,&quot;19/22&quot;,&quot;08/24&quot;,1,1,476),
+  (88259491235808050000,&quot;180&quot;,&quot;07/22&quot;,&quot;04/25&quot;,1,1,477),
+  (1833098355805407000,&quot;243&quot;,&quot;02/23&quot;,&quot;02/25&quot;,1,1,478),
+  (79729628285679530000,&quot;273&quot;,&quot;28/21&quot;,&quot;04/25&quot;,2,2,479),
+  (24521272803890250000,&quot;404&quot;,&quot;01/23&quot;,&quot;12/24&quot;,1,3,480),
+  (39427017925124000000,&quot;555&quot;,&quot;09/21&quot;,&quot;06/25&quot;,1,2,481),
+  (22071644171652747000,&quot;677&quot;,&quot;15/23&quot;,&quot;04/25&quot;,2,3,482),
+  (88914044762572080000,&quot;426&quot;,&quot;30/21&quot;,&quot;05/25&quot;,2,2,483),
+  (17291582917408066000,&quot;164&quot;,&quot;17/22&quot;,&quot;09/24&quot;,2,3,484),
+  (1473940177390198300,&quot;583&quot;,&quot;03/23&quot;,&quot;10/24&quot;,2,2,485),
+  (17828605016994836000,&quot;498&quot;,&quot;17/23&quot;,&quot;02/25&quot;,2,1,486),
+  (49581321589306820000,&quot;682&quot;,&quot;05/22&quot;,&quot;04/25&quot;,1,2,487),
+  (41365816916408885000,&quot;265&quot;,&quot;12/22&quot;,&quot;04/25&quot;,1,3,488),
+  (74728062613181320000,&quot;866&quot;,&quot;24/22&quot;,&quot;05/25&quot;,1,3,489),
+  (30572197171189953000,&quot;449&quot;,&quot;20/22&quot;,&quot;07/25&quot;,2,2,490),
+  (4231193761924667400,&quot;822&quot;,&quot;24/23&quot;,&quot;01/25&quot;,1,2,491),
+  (83358238953642800000,&quot;541&quot;,&quot;14/23&quot;,&quot;10/24&quot;,2,3,492),
+  (39349415882995876000,&quot;119&quot;,&quot;15/22&quot;,&quot;02/25&quot;,1,2,493),
+  (49334165995980970000,&quot;180&quot;,&quot;17/22&quot;,&quot;08/24&quot;,1,1,494),
+  (31741275397501223000,&quot;311&quot;,&quot;12/22&quot;,&quot;02/25&quot;,2,3,495),
+  (8745372768428927000,&quot;782&quot;,&quot;19/22&quot;,&quot;12/24&quot;,2,3,496),
+  (40917137197366400000,&quot;926&quot;,&quot;19/22&quot;,&quot;10/24&quot;,1,2,497),
+  (59730954491621690000,&quot;403&quot;,&quot;30/22&quot;,&quot;04/25&quot;,2,3,498),
+  (50354238063388930000,&quot;233&quot;,&quot;25/23&quot;,&quot;12/24&quot;,2,2,499);</sql><sql name="500 address">--address
+INSERT INTO cd_adrress (cd_address_street,cd_direccion_city,cd_address_province,cd_address_country)
+VALUES
+  (&quot;P.O. Box 753, 5014 Vehicula. Street&quot;,&quot;Châteauroux&quot;,&quot;Konya&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #892-5294 Dui, Rd.&quot;,&quot;Metro&quot;,&quot;Ogun&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 921, 9588 Posuere, Rd.&quot;,&quot;Arequipa&quot;,&quot;Sevastopol City&quot;,&quot;Argentina&quot;),
+  (&quot;255-1554 Sed St.&quot;,&quot;Sacramento&quot;,&quot;La Guajira&quot;,&quot;Argentina&quot;),
+  (&quot;9424 Facilisis Rd.&quot;,&quot;Sauda&quot;,&quot;Hawaii&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #585-5591 Elit Rd.&quot;,&quot;Bad Kreuznach&quot;,&quot;Victoria&quot;,&quot;Argentina&quot;),
+  (&quot;851-9503 Sed Rd.&quot;,&quot;Bima&quot;,&quot;Illes Balears&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #400-208 Nulla Avenue&quot;,&quot;Hidalgo del Parral&quot;,&quot;North Gyeongsang&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #263-3170 Non, Avenue&quot;,&quot;Osogbo&quot;,&quot;Novgorod Oblast&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #175-6904 Nunc Street&quot;,&quot;Guizhou&quot;,&quot;Ancash&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #431-3137 In Rd.&quot;,&quot;Gresham&quot;,&quot;Friesland&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #631-4515 Vel St.&quot;,&quot;Serangoon&quot;,&quot;Ulster&quot;,&quot;Argentina&quot;),
+  (&quot;6394 Enim Street&quot;,&quot;Linlithgow&quot;,&quot;Dalarnas län&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 575, 9323 Arcu. St.&quot;,&quot;Guadalupe&quot;,&quot;Western Cape&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 743, 8979 Montes, St.&quot;,&quot;Mersin&quot;,&quot;O'Higgins&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #880-8159 Etiam Street&quot;,&quot;Changi&quot;,&quot;Baden Württemberg&quot;,&quot;Argentina&quot;),
+  (&quot;412-1144 Mi St.&quot;,&quot;San Carlos&quot;,&quot;Drenthe&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #578-2710 Nulla. Ave&quot;,&quot;Sint-Lambrechts-Woluwe&quot;,&quot;San Luis Potosí&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 769, 5315 Vestibulum, Road&quot;,&quot;Edremit&quot;,&quot;Missouri&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #184-3887 Donec Rd.&quot;,&quot;Levanger&quot;,&quot;Western Australia&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #588-8790 Posuere Rd.&quot;,&quot;Westmount&quot;,&quot;Nunavut&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #608-9953 Semper, Avenue&quot;,&quot;Puerto Carreño&quot;,&quot;Midlothian&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 481, 3098 Quis Street&quot;,&quot;Fogo&quot;,&quot;South Jeolla&quot;,&quot;Argentina&quot;),
+  (&quot;446-6904 Nunc. St.&quot;,&quot;Pamplona&quot;,&quot;Glamorgan&quot;,&quot;Argentina&quot;),
+  (&quot;3203 Integer Rd.&quot;,&quot;Agustín Codazzi&quot;,&quot;Michoacán&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 340, 8189 Vitae Av.&quot;,&quot;San José de Alajuela&quot;,&quot;Lima&quot;,&quot;Argentina&quot;),
+  (&quot;427-2904 Tellus. Ave&quot;,&quot;Pachuca&quot;,&quot;Brandenburg&quot;,&quot;Argentina&quot;),
+  (&quot;406-8305 Ligula St.&quot;,&quot;Louisville&quot;,&quot;Huáběi&quot;,&quot;Argentina&quot;),
+  (&quot;5720 Nec Avenue&quot;,&quot;Mukachevo&quot;,&quot;Alsace&quot;,&quot;Argentina&quot;),
+  (&quot;7795 Aliquam Rd.&quot;,&quot;Kozan&quot;,&quot;Western Cape&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 989, 9567 Ridiculus St.&quot;,&quot;Cork&quot;,&quot;Comunitat Valenciana&quot;,&quot;Argentina&quot;),
+  (&quot;608-5294 At Avenue&quot;,&quot;Semarang&quot;,&quot;Cheshire&quot;,&quot;Argentina&quot;),
+  (&quot;451-7964 Aliquet Rd.&quot;,&quot;Kroonstad&quot;,&quot;Mecklenburg-Vorpommern&quot;,&quot;Argentina&quot;),
+  (&quot;4664 Vulputate Street&quot;,&quot;Hebei&quot;,&quot;İzmir&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 511, 394 Blandit St.&quot;,&quot;Kielce&quot;,&quot;Trøndelag&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #640-274 Sed St.&quot;,&quot;Trujillo&quot;,&quot;Saarland&quot;,&quot;Argentina&quot;),
+  (&quot;4314 Ligula. Rd.&quot;,&quot;Feldkirchen in Kärnten&quot;,&quot;İzmir&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #964-7239 Est Road&quot;,&quot;Nowshera&quot;,&quot;South Island&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 689, 1963 In Street&quot;,&quot;Ternate&quot;,&quot;Western Australia&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 699, 853 Nunc St.&quot;,&quot;Tehuacán&quot;,&quot;Paraíba&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #832-3617 Id Street&quot;,&quot;Belmont&quot;,&quot;Brussels Hoofdstedelijk Gewest&quot;,&quot;Argentina&quot;),
+  (&quot;8939 Consectetuer St.&quot;,&quot;Neubrandenburg&quot;,&quot;Toscana&quot;,&quot;Argentina&quot;),
+  (&quot;144 Malesuada. Av.&quot;,&quot;Guangxi&quot;,&quot;Leinster&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #553-7662 Auctor Rd.&quot;,&quot;Koppervik&quot;,&quot;Bangka Belitung Islands&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 146, 1424 Interdum. Rd.&quot;,&quot;Kimberley&quot;,&quot;Angus&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #418-9525 A Road&quot;,&quot;Seraing&quot;,&quot;Bolívar&quot;,&quot;Argentina&quot;),
+  (&quot;601-7568 Nunc Avenue&quot;,&quot;Oslo&quot;,&quot;Vestland&quot;,&quot;Argentina&quot;),
+  (&quot;124-3102 Orci Street&quot;,&quot;Tromsø&quot;,&quot;Pays de la Loire&quot;,&quot;Argentina&quot;),
+  (&quot;5136 At Av.&quot;,&quot;Yurimaguas&quot;,&quot;Moscow Oblast&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #644-2576 Vestibulum Av.&quot;,&quot;Caldera&quot;,&quot;Nuevo León&quot;,&quot;Argentina&quot;),
+  (&quot;3475 Purus. Av.&quot;,&quot;Dutse&quot;,&quot;Sonora&quot;,&quot;Argentina&quot;),
+  (&quot;8259 Ante Ave&quot;,&quot;Guangxi&quot;,&quot;Anambra&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #148-6033 Eu St.&quot;,&quot;Farsund&quot;,&quot;Limousin&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #990-2138 Gravida Rd.&quot;,&quot;Lamitan&quot;,&quot;Munster&quot;,&quot;Argentina&quot;),
+  (&quot;955-6098 Amet, St.&quot;,&quot;Villahermosa&quot;,&quot;Marche&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #828-7609 Dis St.&quot;,&quot;Ceyhan&quot;,&quot;Balochistan&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #951-728 Magnis Road&quot;,&quot;Zaanstad&quot;,&quot;Vorarlberg&quot;,&quot;Argentina&quot;),
+  (&quot;920-8346 Facilisis Ave&quot;,&quot;Dubno&quot;,&quot;Rio de Janeiro&quot;,&quot;Argentina&quot;),
+  (&quot;3526 Quis, Road&quot;,&quot;Judenburg&quot;,&quot;Sindh&quot;,&quot;Argentina&quot;),
+  (&quot;766-1769 Sed, Rd.&quot;,&quot;Liberia&quot;,&quot;South Island&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 406, 8930 Quam Avenue&quot;,&quot;Greater Hobart&quot;,&quot;Drenthe&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #545-6855 Pede. Rd.&quot;,&quot;Zierikzee&quot;,&quot;Western Australia&quot;,&quot;Argentina&quot;),
+  (&quot;7756 Litora Rd.&quot;,&quot;İskenderun&quot;,&quot;Minnesota&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 242, 301 Egestas. Avenue&quot;,&quot;Seydişehir&quot;,&quot;Khmelnytskyi oblast&quot;,&quot;Argentina&quot;),
+  (&quot;590-4413 Et, Road&quot;,&quot;Coimbatore&quot;,&quot;Kayseri&quot;,&quot;Argentina&quot;),
+  (&quot;699-6586 Egestas. Ave&quot;,&quot;Montenegro&quot;,&quot;Heredia&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 980, 704 Mi Av.&quot;,&quot;Jiangxi&quot;,&quot;Hà Giang&quot;,&quot;Argentina&quot;),
+  (&quot;557-2471 Phasellus Rd.&quot;,&quot;Ciudad Real&quot;,&quot;Huáběi&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #418-2220 Enim Avenue&quot;,&quot;Tame&quot;,&quot;Luxemburg&quot;,&quot;Argentina&quot;),
+  (&quot;557-8398 Ultrices Street&quot;,&quot;Matiari&quot;,&quot;Dolnośląskie&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #552-7651 Viverra. Street&quot;,&quot;Berlin&quot;,&quot;Lima&quot;,&quot;Argentina&quot;),
+  (&quot;192-9808 Hendrerit Avenue&quot;,&quot;Vĩnh Long&quot;,&quot;Antioquia&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #649-6384 Mi Rd.&quot;,&quot;Changi&quot;,&quot;Lazio&quot;,&quot;Argentina&quot;),
+  (&quot;320-814 Tellus, Rd.&quot;,&quot;Hulst&quot;,&quot;Ceará&quot;,&quot;Argentina&quot;),
+  (&quot;4316 Enim. St.&quot;,&quot;Kimberley&quot;,&quot;Northern Cape&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #598-7285 Pede. Rd.&quot;,&quot;Stockholm&quot;,&quot;Ross-shire&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #963-4597 Adipiscing Avenue&quot;,&quot;Calapan&quot;,&quot;Carinthia&quot;,&quot;Argentina&quot;),
+  (&quot;605-928 Est Street&quot;,&quot;Punggol&quot;,&quot;West Region&quot;,&quot;Argentina&quot;),
+  (&quot;2189 Dui St.&quot;,&quot;Morrinsville&quot;,&quot;Sachsen-Anhalt&quot;,&quot;Argentina&quot;),
+  (&quot;344 Et Street&quot;,&quot;Sakhalin&quot;,&quot;Cà Mau&quot;,&quot;Argentina&quot;),
+  (&quot;861-1814 Odio Ave&quot;,&quot;Bethlehem&quot;,&quot;Kerala&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #457-4701 Lacus Avenue&quot;,&quot;Cork&quot;,&quot;Tyrol&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #945-9925 Sed Rd.&quot;,&quot;Darwin&quot;,&quot;Atlántico&quot;,&quot;Argentina&quot;),
+  (&quot;2289 Justo. Rd.&quot;,&quot;Köflach&quot;,&quot;Caraga&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #960-8737 Sodales. St.&quot;,&quot;Terneuzen&quot;,&quot;Vladimir Oblast&quot;,&quot;Argentina&quot;),
+  (&quot;9244 Eu Avenue&quot;,&quot;Calamar&quot;,&quot;Bourgogne&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #276-5529 Sem Rd.&quot;,&quot;Tirunelveli&quot;,&quot;Munster&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #249-3711 Mollis. Street&quot;,&quot;Tanjung Pinang&quot;,&quot;Champagne-Ardenne&quot;,&quot;Argentina&quot;),
+  (&quot;5258 Magna. St.&quot;,&quot;Arequipa&quot;,&quot;Anambra&quot;,&quot;Argentina&quot;),
+  (&quot;482-5152 Nulla St.&quot;,&quot;Oaxaca&quot;,&quot;Connacht&quot;,&quot;Argentina&quot;),
+  (&quot;4783 Duis Road&quot;,&quot;Pacasmayo&quot;,&quot;Maryland&quot;,&quot;Argentina&quot;),
+  (&quot;682-9651 Non, Avenue&quot;,&quot;Telfs&quot;,&quot;Haryana&quot;,&quot;Argentina&quot;),
+  (&quot;165-6133 Lacus, Street&quot;,&quot;Honolulu&quot;,&quot;Upper Austria&quot;,&quot;Argentina&quot;),
+  (&quot;314-9419 Hymenaeos. Road&quot;,&quot;Shanghai&quot;,&quot;Waals-Brabant&quot;,&quot;Argentina&quot;),
+  (&quot;698-2942 Eros Ave&quot;,&quot;Mora&quot;,&quot;Donetsk oblast&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #190-1968 Ac St.&quot;,&quot;Changi Bay&quot;,&quot;Bolívar&quot;,&quot;Argentina&quot;),
+  (&quot;895-8807 A, St.&quot;,&quot;San Cristóbal de las Casas&quot;,&quot;Oaxaca&quot;,&quot;Argentina&quot;),
+  (&quot;4033 Ante St.&quot;,&quot;Langesund&quot;,&quot;Västra Götalands län&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #111-4058 At Street&quot;,&quot;Lafayette&quot;,&quot;Azad Kashmir&quot;,&quot;Argentina&quot;),
+  (&quot;371-3411 Non, St.&quot;,&quot;Ulhasnagar&quot;,&quot;La Rioja&quot;,&quot;Argentina&quot;);
+  
+  
+  INSERT INTO cd_adrress (cd_address_street,cd_direccion_city,cd_address_province,cd_address_country)
+VALUES
+  (&quot;P.O. Box 753, 5014 Vehicula. Street&quot;,&quot;Châteauroux&quot;,&quot;Konya&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #892-5294 Dui, Rd.&quot;,&quot;Metro&quot;,&quot;Ogun&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 921, 9588 Posuere, Rd.&quot;,&quot;Arequipa&quot;,&quot;Sevastopol City&quot;,&quot;Argentina&quot;),
+  (&quot;255-1554 Sed St.&quot;,&quot;Sacramento&quot;,&quot;La Guajira&quot;,&quot;Argentina&quot;),
+  (&quot;9424 Facilisis Rd.&quot;,&quot;Sauda&quot;,&quot;Hawaii&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #585-5591 Elit Rd.&quot;,&quot;Bad Kreuznach&quot;,&quot;Victoria&quot;,&quot;Argentina&quot;),
+  (&quot;851-9503 Sed Rd.&quot;,&quot;Bima&quot;,&quot;Illes Balears&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #400-208 Nulla Avenue&quot;,&quot;Hidalgo del Parral&quot;,&quot;North Gyeongsang&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #263-3170 Non, Avenue&quot;,&quot;Osogbo&quot;,&quot;Novgorod Oblast&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #175-6904 Nunc Street&quot;,&quot;Guizhou&quot;,&quot;Ancash&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #431-3137 In Rd.&quot;,&quot;Gresham&quot;,&quot;Friesland&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #631-4515 Vel St.&quot;,&quot;Serangoon&quot;,&quot;Ulster&quot;,&quot;Argentina&quot;),
+  (&quot;6394 Enim Street&quot;,&quot;Linlithgow&quot;,&quot;Dalarnas län&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 575, 9323 Arcu. St.&quot;,&quot;Guadalupe&quot;,&quot;Western Cape&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 743, 8979 Montes, St.&quot;,&quot;Mersin&quot;,&quot;O'Higgins&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #880-8159 Etiam Street&quot;,&quot;Changi&quot;,&quot;Baden Württemberg&quot;,&quot;Argentina&quot;),
+  (&quot;412-1144 Mi St.&quot;,&quot;San Carlos&quot;,&quot;Drenthe&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #578-2710 Nulla. Ave&quot;,&quot;Sint-Lambrechts-Woluwe&quot;,&quot;San Luis Potosí&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 769, 5315 Vestibulum, Road&quot;,&quot;Edremit&quot;,&quot;Missouri&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #184-3887 Donec Rd.&quot;,&quot;Levanger&quot;,&quot;Western Australia&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #588-8790 Posuere Rd.&quot;,&quot;Westmount&quot;,&quot;Nunavut&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #608-9953 Semper, Avenue&quot;,&quot;Puerto Carreño&quot;,&quot;Midlothian&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 481, 3098 Quis Street&quot;,&quot;Fogo&quot;,&quot;South Jeolla&quot;,&quot;Argentina&quot;),
+  (&quot;446-6904 Nunc. St.&quot;,&quot;Pamplona&quot;,&quot;Glamorgan&quot;,&quot;Argentina&quot;),
+  (&quot;3203 Integer Rd.&quot;,&quot;Agustín Codazzi&quot;,&quot;Michoacán&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 340, 8189 Vitae Av.&quot;,&quot;San José de Alajuela&quot;,&quot;Lima&quot;,&quot;Argentina&quot;),
+  (&quot;427-2904 Tellus. Ave&quot;,&quot;Pachuca&quot;,&quot;Brandenburg&quot;,&quot;Argentina&quot;),
+  (&quot;406-8305 Ligula St.&quot;,&quot;Louisville&quot;,&quot;Huáběi&quot;,&quot;Argentina&quot;),
+  (&quot;5720 Nec Avenue&quot;,&quot;Mukachevo&quot;,&quot;Alsace&quot;,&quot;Argentina&quot;),
+  (&quot;7795 Aliquam Rd.&quot;,&quot;Kozan&quot;,&quot;Western Cape&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 989, 9567 Ridiculus St.&quot;,&quot;Cork&quot;,&quot;Comunitat Valenciana&quot;,&quot;Argentina&quot;),
+  (&quot;608-5294 At Avenue&quot;,&quot;Semarang&quot;,&quot;Cheshire&quot;,&quot;Argentina&quot;),
+  (&quot;451-7964 Aliquet Rd.&quot;,&quot;Kroonstad&quot;,&quot;Mecklenburg-Vorpommern&quot;,&quot;Argentina&quot;),
+  (&quot;4664 Vulputate Street&quot;,&quot;Hebei&quot;,&quot;İzmir&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 511, 394 Blandit St.&quot;,&quot;Kielce&quot;,&quot;Trøndelag&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #640-274 Sed St.&quot;,&quot;Trujillo&quot;,&quot;Saarland&quot;,&quot;Argentina&quot;),
+  (&quot;4314 Ligula. Rd.&quot;,&quot;Feldkirchen in Kärnten&quot;,&quot;İzmir&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #964-7239 Est Road&quot;,&quot;Nowshera&quot;,&quot;South Island&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 689, 1963 In Street&quot;,&quot;Ternate&quot;,&quot;Western Australia&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 699, 853 Nunc St.&quot;,&quot;Tehuacán&quot;,&quot;Paraíba&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #832-3617 Id Street&quot;,&quot;Belmont&quot;,&quot;Brussels Hoofdstedelijk Gewest&quot;,&quot;Argentina&quot;),
+  (&quot;8939 Consectetuer St.&quot;,&quot;Neubrandenburg&quot;,&quot;Toscana&quot;,&quot;Argentina&quot;),
+  (&quot;144 Malesuada. Av.&quot;,&quot;Guangxi&quot;,&quot;Leinster&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #553-7662 Auctor Rd.&quot;,&quot;Koppervik&quot;,&quot;Bangka Belitung Islands&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 146, 1424 Interdum. Rd.&quot;,&quot;Kimberley&quot;,&quot;Angus&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #418-9525 A Road&quot;,&quot;Seraing&quot;,&quot;Bolívar&quot;,&quot;Argentina&quot;),
+  (&quot;601-7568 Nunc Avenue&quot;,&quot;Oslo&quot;,&quot;Vestland&quot;,&quot;Argentina&quot;),
+  (&quot;124-3102 Orci Street&quot;,&quot;Tromsø&quot;,&quot;Pays de la Loire&quot;,&quot;Argentina&quot;),
+  (&quot;5136 At Av.&quot;,&quot;Yurimaguas&quot;,&quot;Moscow Oblast&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #644-2576 Vestibulum Av.&quot;,&quot;Caldera&quot;,&quot;Nuevo León&quot;,&quot;Argentina&quot;),
+  (&quot;3475 Purus. Av.&quot;,&quot;Dutse&quot;,&quot;Sonora&quot;,&quot;Argentina&quot;),
+  (&quot;8259 Ante Ave&quot;,&quot;Guangxi&quot;,&quot;Anambra&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #148-6033 Eu St.&quot;,&quot;Farsund&quot;,&quot;Limousin&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #990-2138 Gravida Rd.&quot;,&quot;Lamitan&quot;,&quot;Munster&quot;,&quot;Argentina&quot;),
+  (&quot;955-6098 Amet, St.&quot;,&quot;Villahermosa&quot;,&quot;Marche&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #828-7609 Dis St.&quot;,&quot;Ceyhan&quot;,&quot;Balochistan&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #951-728 Magnis Road&quot;,&quot;Zaanstad&quot;,&quot;Vorarlberg&quot;,&quot;Argentina&quot;),
+  (&quot;920-8346 Facilisis Ave&quot;,&quot;Dubno&quot;,&quot;Rio de Janeiro&quot;,&quot;Argentina&quot;),
+  (&quot;3526 Quis, Road&quot;,&quot;Judenburg&quot;,&quot;Sindh&quot;,&quot;Argentina&quot;),
+  (&quot;766-1769 Sed, Rd.&quot;,&quot;Liberia&quot;,&quot;South Island&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 406, 8930 Quam Avenue&quot;,&quot;Greater Hobart&quot;,&quot;Drenthe&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #545-6855 Pede. Rd.&quot;,&quot;Zierikzee&quot;,&quot;Western Australia&quot;,&quot;Argentina&quot;),
+  (&quot;7756 Litora Rd.&quot;,&quot;İskenderun&quot;,&quot;Minnesota&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 242, 301 Egestas. Avenue&quot;,&quot;Seydişehir&quot;,&quot;Khmelnytskyi oblast&quot;,&quot;Argentina&quot;),
+  (&quot;590-4413 Et, Road&quot;,&quot;Coimbatore&quot;,&quot;Kayseri&quot;,&quot;Argentina&quot;),
+  (&quot;699-6586 Egestas. Ave&quot;,&quot;Montenegro&quot;,&quot;Heredia&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 980, 704 Mi Av.&quot;,&quot;Jiangxi&quot;,&quot;Hà Giang&quot;,&quot;Argentina&quot;),
+  (&quot;557-2471 Phasellus Rd.&quot;,&quot;Ciudad Real&quot;,&quot;Huáběi&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #418-2220 Enim Avenue&quot;,&quot;Tame&quot;,&quot;Luxemburg&quot;,&quot;Argentina&quot;),
+  (&quot;557-8398 Ultrices Street&quot;,&quot;Matiari&quot;,&quot;Dolnośląskie&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #552-7651 Viverra. Street&quot;,&quot;Berlin&quot;,&quot;Lima&quot;,&quot;Argentina&quot;),
+  (&quot;192-9808 Hendrerit Avenue&quot;,&quot;Vĩnh Long&quot;,&quot;Antioquia&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #649-6384 Mi Rd.&quot;,&quot;Changi&quot;,&quot;Lazio&quot;,&quot;Argentina&quot;),
+  (&quot;320-814 Tellus, Rd.&quot;,&quot;Hulst&quot;,&quot;Ceará&quot;,&quot;Argentina&quot;),
+  (&quot;4316 Enim. St.&quot;,&quot;Kimberley&quot;,&quot;Northern Cape&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #598-7285 Pede. Rd.&quot;,&quot;Stockholm&quot;,&quot;Ross-shire&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #963-4597 Adipiscing Avenue&quot;,&quot;Calapan&quot;,&quot;Carinthia&quot;,&quot;Argentina&quot;),
+  (&quot;605-928 Est Street&quot;,&quot;Punggol&quot;,&quot;West Region&quot;,&quot;Argentina&quot;),
+  (&quot;2189 Dui St.&quot;,&quot;Morrinsville&quot;,&quot;Sachsen-Anhalt&quot;,&quot;Argentina&quot;),
+  (&quot;344 Et Street&quot;,&quot;Sakhalin&quot;,&quot;Cà Mau&quot;,&quot;Argentina&quot;),
+  (&quot;861-1814 Odio Ave&quot;,&quot;Bethlehem&quot;,&quot;Kerala&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #457-4701 Lacus Avenue&quot;,&quot;Cork&quot;,&quot;Tyrol&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #945-9925 Sed Rd.&quot;,&quot;Darwin&quot;,&quot;Atlántico&quot;,&quot;Argentina&quot;),
+  (&quot;2289 Justo. Rd.&quot;,&quot;Köflach&quot;,&quot;Caraga&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #960-8737 Sodales. St.&quot;,&quot;Terneuzen&quot;,&quot;Vladimir Oblast&quot;,&quot;Argentina&quot;),
+  (&quot;9244 Eu Avenue&quot;,&quot;Calamar&quot;,&quot;Bourgogne&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #276-5529 Sem Rd.&quot;,&quot;Tirunelveli&quot;,&quot;Munster&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #249-3711 Mollis. Street&quot;,&quot;Tanjung Pinang&quot;,&quot;Champagne-Ardenne&quot;,&quot;Argentina&quot;),
+  (&quot;5258 Magna. St.&quot;,&quot;Arequipa&quot;,&quot;Anambra&quot;,&quot;Argentina&quot;),
+  (&quot;482-5152 Nulla St.&quot;,&quot;Oaxaca&quot;,&quot;Connacht&quot;,&quot;Argentina&quot;),
+  (&quot;4783 Duis Road&quot;,&quot;Pacasmayo&quot;,&quot;Maryland&quot;,&quot;Argentina&quot;),
+  (&quot;682-9651 Non, Avenue&quot;,&quot;Telfs&quot;,&quot;Haryana&quot;,&quot;Argentina&quot;),
+  (&quot;165-6133 Lacus, Street&quot;,&quot;Honolulu&quot;,&quot;Upper Austria&quot;,&quot;Argentina&quot;),
+  (&quot;314-9419 Hymenaeos. Road&quot;,&quot;Shanghai&quot;,&quot;Waals-Brabant&quot;,&quot;Argentina&quot;),
+  (&quot;698-2942 Eros Ave&quot;,&quot;Mora&quot;,&quot;Donetsk oblast&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #190-1968 Ac St.&quot;,&quot;Changi Bay&quot;,&quot;Bolívar&quot;,&quot;Argentina&quot;),
+  (&quot;895-8807 A, St.&quot;,&quot;San Cristóbal de las Casas&quot;,&quot;Oaxaca&quot;,&quot;Argentina&quot;),
+  (&quot;4033 Ante St.&quot;,&quot;Langesund&quot;,&quot;Västra Götalands län&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #111-4058 At Street&quot;,&quot;Lafayette&quot;,&quot;Azad Kashmir&quot;,&quot;Argentina&quot;),
+  (&quot;371-3411 Non, St.&quot;,&quot;Ulhasnagar&quot;,&quot;La Rioja&quot;,&quot;Argentina&quot;);
+  
+  --300
+  INSERT INTO cd_adrress (cd_address_street,cd_direccion_city,cd_address_province,cd_address_country)
+VALUES
+  (&quot;P.O. Box 753, 5014 Vehicula. Street&quot;,&quot;Châteauroux&quot;,&quot;Konya&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #892-5294 Dui, Rd.&quot;,&quot;Metro&quot;,&quot;Ogun&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 921, 9588 Posuere, Rd.&quot;,&quot;Arequipa&quot;,&quot;Sevastopol City&quot;,&quot;Argentina&quot;),
+  (&quot;255-1554 Sed St.&quot;,&quot;Sacramento&quot;,&quot;La Guajira&quot;,&quot;Argentina&quot;),
+  (&quot;9424 Facilisis Rd.&quot;,&quot;Sauda&quot;,&quot;Hawaii&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #585-5591 Elit Rd.&quot;,&quot;Bad Kreuznach&quot;,&quot;Victoria&quot;,&quot;Argentina&quot;),
+  (&quot;851-9503 Sed Rd.&quot;,&quot;Bima&quot;,&quot;Illes Balears&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #400-208 Nulla Avenue&quot;,&quot;Hidalgo del Parral&quot;,&quot;North Gyeongsang&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #263-3170 Non, Avenue&quot;,&quot;Osogbo&quot;,&quot;Novgorod Oblast&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #175-6904 Nunc Street&quot;,&quot;Guizhou&quot;,&quot;Ancash&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #431-3137 In Rd.&quot;,&quot;Gresham&quot;,&quot;Friesland&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #631-4515 Vel St.&quot;,&quot;Serangoon&quot;,&quot;Ulster&quot;,&quot;Argentina&quot;),
+  (&quot;6394 Enim Street&quot;,&quot;Linlithgow&quot;,&quot;Dalarnas län&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 575, 9323 Arcu. St.&quot;,&quot;Guadalupe&quot;,&quot;Western Cape&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 743, 8979 Montes, St.&quot;,&quot;Mersin&quot;,&quot;O'Higgins&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #880-8159 Etiam Street&quot;,&quot;Changi&quot;,&quot;Baden Württemberg&quot;,&quot;Argentina&quot;),
+  (&quot;412-1144 Mi St.&quot;,&quot;San Carlos&quot;,&quot;Drenthe&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #578-2710 Nulla. Ave&quot;,&quot;Sint-Lambrechts-Woluwe&quot;,&quot;San Luis Potosí&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 769, 5315 Vestibulum, Road&quot;,&quot;Edremit&quot;,&quot;Missouri&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #184-3887 Donec Rd.&quot;,&quot;Levanger&quot;,&quot;Western Australia&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #588-8790 Posuere Rd.&quot;,&quot;Westmount&quot;,&quot;Nunavut&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #608-9953 Semper, Avenue&quot;,&quot;Puerto Carreño&quot;,&quot;Midlothian&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 481, 3098 Quis Street&quot;,&quot;Fogo&quot;,&quot;South Jeolla&quot;,&quot;Argentina&quot;),
+  (&quot;446-6904 Nunc. St.&quot;,&quot;Pamplona&quot;,&quot;Glamorgan&quot;,&quot;Argentina&quot;),
+  (&quot;3203 Integer Rd.&quot;,&quot;Agustín Codazzi&quot;,&quot;Michoacán&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 340, 8189 Vitae Av.&quot;,&quot;San José de Alajuela&quot;,&quot;Lima&quot;,&quot;Argentina&quot;),
+  (&quot;427-2904 Tellus. Ave&quot;,&quot;Pachuca&quot;,&quot;Brandenburg&quot;,&quot;Argentina&quot;),
+  (&quot;406-8305 Ligula St.&quot;,&quot;Louisville&quot;,&quot;Huáběi&quot;,&quot;Argentina&quot;),
+  (&quot;5720 Nec Avenue&quot;,&quot;Mukachevo&quot;,&quot;Alsace&quot;,&quot;Argentina&quot;),
+  (&quot;7795 Aliquam Rd.&quot;,&quot;Kozan&quot;,&quot;Western Cape&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 989, 9567 Ridiculus St.&quot;,&quot;Cork&quot;,&quot;Comunitat Valenciana&quot;,&quot;Argentina&quot;),
+  (&quot;608-5294 At Avenue&quot;,&quot;Semarang&quot;,&quot;Cheshire&quot;,&quot;Argentina&quot;),
+  (&quot;451-7964 Aliquet Rd.&quot;,&quot;Kroonstad&quot;,&quot;Mecklenburg-Vorpommern&quot;,&quot;Argentina&quot;),
+  (&quot;4664 Vulputate Street&quot;,&quot;Hebei&quot;,&quot;İzmir&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 511, 394 Blandit St.&quot;,&quot;Kielce&quot;,&quot;Trøndelag&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #640-274 Sed St.&quot;,&quot;Trujillo&quot;,&quot;Saarland&quot;,&quot;Argentina&quot;),
+  (&quot;4314 Ligula. Rd.&quot;,&quot;Feldkirchen in Kärnten&quot;,&quot;İzmir&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #964-7239 Est Road&quot;,&quot;Nowshera&quot;,&quot;South Island&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 689, 1963 In Street&quot;,&quot;Ternate&quot;,&quot;Western Australia&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 699, 853 Nunc St.&quot;,&quot;Tehuacán&quot;,&quot;Paraíba&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #832-3617 Id Street&quot;,&quot;Belmont&quot;,&quot;Brussels Hoofdstedelijk Gewest&quot;,&quot;Argentina&quot;),
+  (&quot;8939 Consectetuer St.&quot;,&quot;Neubrandenburg&quot;,&quot;Toscana&quot;,&quot;Argentina&quot;),
+  (&quot;144 Malesuada. Av.&quot;,&quot;Guangxi&quot;,&quot;Leinster&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #553-7662 Auctor Rd.&quot;,&quot;Koppervik&quot;,&quot;Bangka Belitung Islands&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 146, 1424 Interdum. Rd.&quot;,&quot;Kimberley&quot;,&quot;Angus&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #418-9525 A Road&quot;,&quot;Seraing&quot;,&quot;Bolívar&quot;,&quot;Argentina&quot;),
+  (&quot;601-7568 Nunc Avenue&quot;,&quot;Oslo&quot;,&quot;Vestland&quot;,&quot;Argentina&quot;),
+  (&quot;124-3102 Orci Street&quot;,&quot;Tromsø&quot;,&quot;Pays de la Loire&quot;,&quot;Argentina&quot;),
+  (&quot;5136 At Av.&quot;,&quot;Yurimaguas&quot;,&quot;Moscow Oblast&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #644-2576 Vestibulum Av.&quot;,&quot;Caldera&quot;,&quot;Nuevo León&quot;,&quot;Argentina&quot;),
+  (&quot;3475 Purus. Av.&quot;,&quot;Dutse&quot;,&quot;Sonora&quot;,&quot;Argentina&quot;),
+  (&quot;8259 Ante Ave&quot;,&quot;Guangxi&quot;,&quot;Anambra&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #148-6033 Eu St.&quot;,&quot;Farsund&quot;,&quot;Limousin&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #990-2138 Gravida Rd.&quot;,&quot;Lamitan&quot;,&quot;Munster&quot;,&quot;Argentina&quot;),
+  (&quot;955-6098 Amet, St.&quot;,&quot;Villahermosa&quot;,&quot;Marche&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #828-7609 Dis St.&quot;,&quot;Ceyhan&quot;,&quot;Balochistan&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #951-728 Magnis Road&quot;,&quot;Zaanstad&quot;,&quot;Vorarlberg&quot;,&quot;Argentina&quot;),
+  (&quot;920-8346 Facilisis Ave&quot;,&quot;Dubno&quot;,&quot;Rio de Janeiro&quot;,&quot;Argentina&quot;),
+  (&quot;3526 Quis, Road&quot;,&quot;Judenburg&quot;,&quot;Sindh&quot;,&quot;Argentina&quot;),
+  (&quot;766-1769 Sed, Rd.&quot;,&quot;Liberia&quot;,&quot;South Island&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 406, 8930 Quam Avenue&quot;,&quot;Greater Hobart&quot;,&quot;Drenthe&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #545-6855 Pede. Rd.&quot;,&quot;Zierikzee&quot;,&quot;Western Australia&quot;,&quot;Argentina&quot;),
+  (&quot;7756 Litora Rd.&quot;,&quot;İskenderun&quot;,&quot;Minnesota&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 242, 301 Egestas. Avenue&quot;,&quot;Seydişehir&quot;,&quot;Khmelnytskyi oblast&quot;,&quot;Argentina&quot;),
+  (&quot;590-4413 Et, Road&quot;,&quot;Coimbatore&quot;,&quot;Kayseri&quot;,&quot;Argentina&quot;),
+  (&quot;699-6586 Egestas. Ave&quot;,&quot;Montenegro&quot;,&quot;Heredia&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 980, 704 Mi Av.&quot;,&quot;Jiangxi&quot;,&quot;Hà Giang&quot;,&quot;Argentina&quot;),
+  (&quot;557-2471 Phasellus Rd.&quot;,&quot;Ciudad Real&quot;,&quot;Huáběi&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #418-2220 Enim Avenue&quot;,&quot;Tame&quot;,&quot;Luxemburg&quot;,&quot;Argentina&quot;),
+  (&quot;557-8398 Ultrices Street&quot;,&quot;Matiari&quot;,&quot;Dolnośląskie&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #552-7651 Viverra. Street&quot;,&quot;Berlin&quot;,&quot;Lima&quot;,&quot;Argentina&quot;),
+  (&quot;192-9808 Hendrerit Avenue&quot;,&quot;Vĩnh Long&quot;,&quot;Antioquia&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #649-6384 Mi Rd.&quot;,&quot;Changi&quot;,&quot;Lazio&quot;,&quot;Argentina&quot;),
+  (&quot;320-814 Tellus, Rd.&quot;,&quot;Hulst&quot;,&quot;Ceará&quot;,&quot;Argentina&quot;),
+  (&quot;4316 Enim. St.&quot;,&quot;Kimberley&quot;,&quot;Northern Cape&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #598-7285 Pede. Rd.&quot;,&quot;Stockholm&quot;,&quot;Ross-shire&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #963-4597 Adipiscing Avenue&quot;,&quot;Calapan&quot;,&quot;Carinthia&quot;,&quot;Argentina&quot;),
+  (&quot;605-928 Est Street&quot;,&quot;Punggol&quot;,&quot;West Region&quot;,&quot;Argentina&quot;),
+  (&quot;2189 Dui St.&quot;,&quot;Morrinsville&quot;,&quot;Sachsen-Anhalt&quot;,&quot;Argentina&quot;),
+  (&quot;344 Et Street&quot;,&quot;Sakhalin&quot;,&quot;Cà Mau&quot;,&quot;Argentina&quot;),
+  (&quot;861-1814 Odio Ave&quot;,&quot;Bethlehem&quot;,&quot;Kerala&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #457-4701 Lacus Avenue&quot;,&quot;Cork&quot;,&quot;Tyrol&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #945-9925 Sed Rd.&quot;,&quot;Darwin&quot;,&quot;Atlántico&quot;,&quot;Argentina&quot;),
+  (&quot;2289 Justo. Rd.&quot;,&quot;Köflach&quot;,&quot;Caraga&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #960-8737 Sodales. St.&quot;,&quot;Terneuzen&quot;,&quot;Vladimir Oblast&quot;,&quot;Argentina&quot;),
+  (&quot;9244 Eu Avenue&quot;,&quot;Calamar&quot;,&quot;Bourgogne&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #276-5529 Sem Rd.&quot;,&quot;Tirunelveli&quot;,&quot;Munster&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #249-3711 Mollis. Street&quot;,&quot;Tanjung Pinang&quot;,&quot;Champagne-Ardenne&quot;,&quot;Argentina&quot;),
+  (&quot;5258 Magna. St.&quot;,&quot;Arequipa&quot;,&quot;Anambra&quot;,&quot;Argentina&quot;),
+  (&quot;482-5152 Nulla St.&quot;,&quot;Oaxaca&quot;,&quot;Connacht&quot;,&quot;Argentina&quot;),
+  (&quot;4783 Duis Road&quot;,&quot;Pacasmayo&quot;,&quot;Maryland&quot;,&quot;Argentina&quot;),
+  (&quot;682-9651 Non, Avenue&quot;,&quot;Telfs&quot;,&quot;Haryana&quot;,&quot;Argentina&quot;),
+  (&quot;165-6133 Lacus, Street&quot;,&quot;Honolulu&quot;,&quot;Upper Austria&quot;,&quot;Argentina&quot;),
+  (&quot;314-9419 Hymenaeos. Road&quot;,&quot;Shanghai&quot;,&quot;Waals-Brabant&quot;,&quot;Argentina&quot;),
+  (&quot;698-2942 Eros Ave&quot;,&quot;Mora&quot;,&quot;Donetsk oblast&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #190-1968 Ac St.&quot;,&quot;Changi Bay&quot;,&quot;Bolívar&quot;,&quot;Argentina&quot;),
+  (&quot;895-8807 A, St.&quot;,&quot;San Cristóbal de las Casas&quot;,&quot;Oaxaca&quot;,&quot;Argentina&quot;),
+  (&quot;4033 Ante St.&quot;,&quot;Langesund&quot;,&quot;Västra Götalands län&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #111-4058 At Street&quot;,&quot;Lafayette&quot;,&quot;Azad Kashmir&quot;,&quot;Argentina&quot;),
+  (&quot;371-3411 Non, St.&quot;,&quot;Ulhasnagar&quot;,&quot;La Rioja&quot;,&quot;Argentina&quot;);
+  
+  --400
+  INSERT INTO cd_adrress (cd_address_street,cd_direccion_city,cd_address_province,cd_address_country)
+VALUES
+  (&quot;P.O. Box 753, 5014 Vehicula. Street&quot;,&quot;Châteauroux&quot;,&quot;Konya&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #892-5294 Dui, Rd.&quot;,&quot;Metro&quot;,&quot;Ogun&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 921, 9588 Posuere, Rd.&quot;,&quot;Arequipa&quot;,&quot;Sevastopol City&quot;,&quot;Argentina&quot;),
+  (&quot;255-1554 Sed St.&quot;,&quot;Sacramento&quot;,&quot;La Guajira&quot;,&quot;Argentina&quot;),
+  (&quot;9424 Facilisis Rd.&quot;,&quot;Sauda&quot;,&quot;Hawaii&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #585-5591 Elit Rd.&quot;,&quot;Bad Kreuznach&quot;,&quot;Victoria&quot;,&quot;Argentina&quot;),
+  (&quot;851-9503 Sed Rd.&quot;,&quot;Bima&quot;,&quot;Illes Balears&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #400-208 Nulla Avenue&quot;,&quot;Hidalgo del Parral&quot;,&quot;North Gyeongsang&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #263-3170 Non, Avenue&quot;,&quot;Osogbo&quot;,&quot;Novgorod Oblast&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #175-6904 Nunc Street&quot;,&quot;Guizhou&quot;,&quot;Ancash&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #431-3137 In Rd.&quot;,&quot;Gresham&quot;,&quot;Friesland&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #631-4515 Vel St.&quot;,&quot;Serangoon&quot;,&quot;Ulster&quot;,&quot;Argentina&quot;),
+  (&quot;6394 Enim Street&quot;,&quot;Linlithgow&quot;,&quot;Dalarnas län&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 575, 9323 Arcu. St.&quot;,&quot;Guadalupe&quot;,&quot;Western Cape&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 743, 8979 Montes, St.&quot;,&quot;Mersin&quot;,&quot;O'Higgins&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #880-8159 Etiam Street&quot;,&quot;Changi&quot;,&quot;Baden Württemberg&quot;,&quot;Argentina&quot;),
+  (&quot;412-1144 Mi St.&quot;,&quot;San Carlos&quot;,&quot;Drenthe&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #578-2710 Nulla. Ave&quot;,&quot;Sint-Lambrechts-Woluwe&quot;,&quot;San Luis Potosí&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 769, 5315 Vestibulum, Road&quot;,&quot;Edremit&quot;,&quot;Missouri&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #184-3887 Donec Rd.&quot;,&quot;Levanger&quot;,&quot;Western Australia&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #588-8790 Posuere Rd.&quot;,&quot;Westmount&quot;,&quot;Nunavut&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #608-9953 Semper, Avenue&quot;,&quot;Puerto Carreño&quot;,&quot;Midlothian&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 481, 3098 Quis Street&quot;,&quot;Fogo&quot;,&quot;South Jeolla&quot;,&quot;Argentina&quot;),
+  (&quot;446-6904 Nunc. St.&quot;,&quot;Pamplona&quot;,&quot;Glamorgan&quot;,&quot;Argentina&quot;),
+  (&quot;3203 Integer Rd.&quot;,&quot;Agustín Codazzi&quot;,&quot;Michoacán&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 340, 8189 Vitae Av.&quot;,&quot;San José de Alajuela&quot;,&quot;Lima&quot;,&quot;Argentina&quot;),
+  (&quot;427-2904 Tellus. Ave&quot;,&quot;Pachuca&quot;,&quot;Brandenburg&quot;,&quot;Argentina&quot;),
+  (&quot;406-8305 Ligula St.&quot;,&quot;Louisville&quot;,&quot;Huáběi&quot;,&quot;Argentina&quot;),
+  (&quot;5720 Nec Avenue&quot;,&quot;Mukachevo&quot;,&quot;Alsace&quot;,&quot;Argentina&quot;),
+  (&quot;7795 Aliquam Rd.&quot;,&quot;Kozan&quot;,&quot;Western Cape&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 989, 9567 Ridiculus St.&quot;,&quot;Cork&quot;,&quot;Comunitat Valenciana&quot;,&quot;Argentina&quot;),
+  (&quot;608-5294 At Avenue&quot;,&quot;Semarang&quot;,&quot;Cheshire&quot;,&quot;Argentina&quot;),
+  (&quot;451-7964 Aliquet Rd.&quot;,&quot;Kroonstad&quot;,&quot;Mecklenburg-Vorpommern&quot;,&quot;Argentina&quot;),
+  (&quot;4664 Vulputate Street&quot;,&quot;Hebei&quot;,&quot;İzmir&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 511, 394 Blandit St.&quot;,&quot;Kielce&quot;,&quot;Trøndelag&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #640-274 Sed St.&quot;,&quot;Trujillo&quot;,&quot;Saarland&quot;,&quot;Argentina&quot;),
+  (&quot;4314 Ligula. Rd.&quot;,&quot;Feldkirchen in Kärnten&quot;,&quot;İzmir&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #964-7239 Est Road&quot;,&quot;Nowshera&quot;,&quot;South Island&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 689, 1963 In Street&quot;,&quot;Ternate&quot;,&quot;Western Australia&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 699, 853 Nunc St.&quot;,&quot;Tehuacán&quot;,&quot;Paraíba&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #832-3617 Id Street&quot;,&quot;Belmont&quot;,&quot;Brussels Hoofdstedelijk Gewest&quot;,&quot;Argentina&quot;),
+  (&quot;8939 Consectetuer St.&quot;,&quot;Neubrandenburg&quot;,&quot;Toscana&quot;,&quot;Argentina&quot;),
+  (&quot;144 Malesuada. Av.&quot;,&quot;Guangxi&quot;,&quot;Leinster&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #553-7662 Auctor Rd.&quot;,&quot;Koppervik&quot;,&quot;Bangka Belitung Islands&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 146, 1424 Interdum. Rd.&quot;,&quot;Kimberley&quot;,&quot;Angus&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #418-9525 A Road&quot;,&quot;Seraing&quot;,&quot;Bolívar&quot;,&quot;Argentina&quot;),
+  (&quot;601-7568 Nunc Avenue&quot;,&quot;Oslo&quot;,&quot;Vestland&quot;,&quot;Argentina&quot;),
+  (&quot;124-3102 Orci Street&quot;,&quot;Tromsø&quot;,&quot;Pays de la Loire&quot;,&quot;Argentina&quot;),
+  (&quot;5136 At Av.&quot;,&quot;Yurimaguas&quot;,&quot;Moscow Oblast&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #644-2576 Vestibulum Av.&quot;,&quot;Caldera&quot;,&quot;Nuevo León&quot;,&quot;Argentina&quot;),
+  (&quot;3475 Purus. Av.&quot;,&quot;Dutse&quot;,&quot;Sonora&quot;,&quot;Argentina&quot;),
+  (&quot;8259 Ante Ave&quot;,&quot;Guangxi&quot;,&quot;Anambra&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #148-6033 Eu St.&quot;,&quot;Farsund&quot;,&quot;Limousin&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #990-2138 Gravida Rd.&quot;,&quot;Lamitan&quot;,&quot;Munster&quot;,&quot;Argentina&quot;),
+  (&quot;955-6098 Amet, St.&quot;,&quot;Villahermosa&quot;,&quot;Marche&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #828-7609 Dis St.&quot;,&quot;Ceyhan&quot;,&quot;Balochistan&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #951-728 Magnis Road&quot;,&quot;Zaanstad&quot;,&quot;Vorarlberg&quot;,&quot;Argentina&quot;),
+  (&quot;920-8346 Facilisis Ave&quot;,&quot;Dubno&quot;,&quot;Rio de Janeiro&quot;,&quot;Argentina&quot;),
+  (&quot;3526 Quis, Road&quot;,&quot;Judenburg&quot;,&quot;Sindh&quot;,&quot;Argentina&quot;),
+  (&quot;766-1769 Sed, Rd.&quot;,&quot;Liberia&quot;,&quot;South Island&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 406, 8930 Quam Avenue&quot;,&quot;Greater Hobart&quot;,&quot;Drenthe&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #545-6855 Pede. Rd.&quot;,&quot;Zierikzee&quot;,&quot;Western Australia&quot;,&quot;Argentina&quot;),
+  (&quot;7756 Litora Rd.&quot;,&quot;İskenderun&quot;,&quot;Minnesota&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 242, 301 Egestas. Avenue&quot;,&quot;Seydişehir&quot;,&quot;Khmelnytskyi oblast&quot;,&quot;Argentina&quot;),
+  (&quot;590-4413 Et, Road&quot;,&quot;Coimbatore&quot;,&quot;Kayseri&quot;,&quot;Argentina&quot;),
+  (&quot;699-6586 Egestas. Ave&quot;,&quot;Montenegro&quot;,&quot;Heredia&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 980, 704 Mi Av.&quot;,&quot;Jiangxi&quot;,&quot;Hà Giang&quot;,&quot;Argentina&quot;),
+  (&quot;557-2471 Phasellus Rd.&quot;,&quot;Ciudad Real&quot;,&quot;Huáběi&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #418-2220 Enim Avenue&quot;,&quot;Tame&quot;,&quot;Luxemburg&quot;,&quot;Argentina&quot;),
+  (&quot;557-8398 Ultrices Street&quot;,&quot;Matiari&quot;,&quot;Dolnośląskie&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #552-7651 Viverra. Street&quot;,&quot;Berlin&quot;,&quot;Lima&quot;,&quot;Argentina&quot;),
+  (&quot;192-9808 Hendrerit Avenue&quot;,&quot;Vĩnh Long&quot;,&quot;Antioquia&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #649-6384 Mi Rd.&quot;,&quot;Changi&quot;,&quot;Lazio&quot;,&quot;Argentina&quot;),
+  (&quot;320-814 Tellus, Rd.&quot;,&quot;Hulst&quot;,&quot;Ceará&quot;,&quot;Argentina&quot;),
+  (&quot;4316 Enim. St.&quot;,&quot;Kimberley&quot;,&quot;Northern Cape&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #598-7285 Pede. Rd.&quot;,&quot;Stockholm&quot;,&quot;Ross-shire&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #963-4597 Adipiscing Avenue&quot;,&quot;Calapan&quot;,&quot;Carinthia&quot;,&quot;Argentina&quot;),
+  (&quot;605-928 Est Street&quot;,&quot;Punggol&quot;,&quot;West Region&quot;,&quot;Argentina&quot;),
+  (&quot;2189 Dui St.&quot;,&quot;Morrinsville&quot;,&quot;Sachsen-Anhalt&quot;,&quot;Argentina&quot;),
+  (&quot;344 Et Street&quot;,&quot;Sakhalin&quot;,&quot;Cà Mau&quot;,&quot;Argentina&quot;),
+  (&quot;861-1814 Odio Ave&quot;,&quot;Bethlehem&quot;,&quot;Kerala&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #457-4701 Lacus Avenue&quot;,&quot;Cork&quot;,&quot;Tyrol&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #945-9925 Sed Rd.&quot;,&quot;Darwin&quot;,&quot;Atlántico&quot;,&quot;Argentina&quot;),
+  (&quot;2289 Justo. Rd.&quot;,&quot;Köflach&quot;,&quot;Caraga&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #960-8737 Sodales. St.&quot;,&quot;Terneuzen&quot;,&quot;Vladimir Oblast&quot;,&quot;Argentina&quot;),
+  (&quot;9244 Eu Avenue&quot;,&quot;Calamar&quot;,&quot;Bourgogne&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #276-5529 Sem Rd.&quot;,&quot;Tirunelveli&quot;,&quot;Munster&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #249-3711 Mollis. Street&quot;,&quot;Tanjung Pinang&quot;,&quot;Champagne-Ardenne&quot;,&quot;Argentina&quot;),
+  (&quot;5258 Magna. St.&quot;,&quot;Arequipa&quot;,&quot;Anambra&quot;,&quot;Argentina&quot;),
+  (&quot;482-5152 Nulla St.&quot;,&quot;Oaxaca&quot;,&quot;Connacht&quot;,&quot;Argentina&quot;),
+  (&quot;4783 Duis Road&quot;,&quot;Pacasmayo&quot;,&quot;Maryland&quot;,&quot;Argentina&quot;),
+  (&quot;682-9651 Non, Avenue&quot;,&quot;Telfs&quot;,&quot;Haryana&quot;,&quot;Argentina&quot;),
+  (&quot;165-6133 Lacus, Street&quot;,&quot;Honolulu&quot;,&quot;Upper Austria&quot;,&quot;Argentina&quot;),
+  (&quot;314-9419 Hymenaeos. Road&quot;,&quot;Shanghai&quot;,&quot;Waals-Brabant&quot;,&quot;Argentina&quot;),
+  (&quot;698-2942 Eros Ave&quot;,&quot;Mora&quot;,&quot;Donetsk oblast&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #190-1968 Ac St.&quot;,&quot;Changi Bay&quot;,&quot;Bolívar&quot;,&quot;Argentina&quot;),
+  (&quot;895-8807 A, St.&quot;,&quot;San Cristóbal de las Casas&quot;,&quot;Oaxaca&quot;,&quot;Argentina&quot;),
+  (&quot;4033 Ante St.&quot;,&quot;Langesund&quot;,&quot;Västra Götalands län&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #111-4058 At Street&quot;,&quot;Lafayette&quot;,&quot;Azad Kashmir&quot;,&quot;Argentina&quot;),
+  (&quot;371-3411 Non, St.&quot;,&quot;Ulhasnagar&quot;,&quot;La Rioja&quot;,&quot;Argentina&quot;);
+  
+  --500
+  INSERT INTO cd_adrress (cd_address_street,cd_direccion_city,cd_address_province,cd_address_country)
+VALUES
+  (&quot;Ap #894-6585 Accumsan St.&quot;,&quot;Saint Petersburg&quot;,&quot;Comunitat Valenciana&quot;,&quot;Argentina&quot;),
+  (&quot;826-4067 Natoque St.&quot;,&quot;Upplands Väsby&quot;,&quot;Vestfold og Telemark&quot;,&quot;Argentina&quot;),
+  (&quot;5880 Gravida St.&quot;,&quot;Portland&quot;,&quot;Oslo&quot;,&quot;Argentina&quot;),
+  (&quot;155-6590 Eget Avenue&quot;,&quot;Bursa&quot;,&quot;Madrid&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 425, 8775 Magna Rd.&quot;,&quot;Saltillo&quot;,&quot;North-East Region&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #232-9076 Ac St.&quot;,&quot;Đồng Xoài&quot;,&quot;Tây Ninh&quot;,&quot;Argentina&quot;),
+  (&quot;2505 Pede, Street&quot;,&quot;Qinghai&quot;,&quot;Brandenburg&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 976, 4895 Nunc Av.&quot;,&quot;Delhi&quot;,&quot;Chernivtsi oblast&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 344, 1769 Lorem St.&quot;,&quot;Jelenia Góra&quot;,&quot;Zeeland&quot;,&quot;Argentina&quot;),
+  (&quot;321-7785 Cum Rd.&quot;,&quot;Clackmannan&quot;,&quot;Junín&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #907-5817 Sodales Av.&quot;,&quot;Ningxia&quot;,&quot;Brussels Hoofdstedelijk Gewest&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 582, 5658 Augue St.&quot;,&quot;Dordrecht&quot;,&quot;Kherson oblast&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #296-3193 Mauris. Rd.&quot;,&quot;Erciş&quot;,&quot;Banten&quot;,&quot;Argentina&quot;),
+  (&quot;689-2212 Proin Road&quot;,&quot;Malolos&quot;,&quot;Coahuila&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 720, 9993 At, Ave&quot;,&quot;Polino&quot;,&quot;Western Cape&quot;,&quot;Argentina&quot;),
+  (&quot;756-1177 Ut Avenue&quot;,&quot;Novgorod&quot;,&quot;Querétaro&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #144-2557 Eget St.&quot;,&quot;Cork&quot;,&quot;Ross-shire&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #624-3207 Nunc Road&quot;,&quot;Rostov&quot;,&quot;Xīnán&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 628, 1735 Nulla. Road&quot;,&quot;Gmunden&quot;,&quot;Sindh&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #281-4813 Molestie Rd.&quot;,&quot;Chongqing&quot;,&quot;Quebec&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 644, 9010 Cursus. Av.&quot;,&quot;Stellenbosch&quot;,&quot;Gävleborgs län&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #883-348 Diam St.&quot;,&quot;Banda Aceh&quot;,&quot;Orkney&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 620, 132 Suspendisse Avenue&quot;,&quot;Pugwash&quot;,&quot;Kursk Oblast&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #963-6987 Ante, Av.&quot;,&quot;Lleida&quot;,&quot;Coquimbo&quot;,&quot;Argentina&quot;),
+  (&quot;4237 Neque Rd.&quot;,&quot;La Unión&quot;,&quot;Dolnośląskie&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #865-4636 Duis Rd.&quot;,&quot;Hoogeveen&quot;,&quot;Vermont&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #834-3932 Scelerisque Road&quot;,&quot;Bünyan&quot;,&quot;Gävleborgs län&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 944, 8916 Ridiculus St.&quot;,&quot;Juazeiro&quot;,&quot;Gangwon&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 182, 3690 Lectus St.&quot;,&quot;San Nicolás de los Garza&quot;,&quot;Małopolskie&quot;,&quot;Argentina&quot;),
+  (&quot;4485 Pharetra. Rd.&quot;,&quot;Carapicuíba&quot;,&quot;Navarra&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #187-8195 Nunc St.&quot;,&quot;Gorzów Wielkopolski&quot;,&quot;British Columbia&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 128, 8868 Et, Rd.&quot;,&quot;Groot-Bijgaarden&quot;,&quot;Vorarlberg&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #269-6510 Mi Avenue&quot;,&quot;Copiapó&quot;,&quot;Stockholms län&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 967, 3274 Urna Road&quot;,&quot;Berlin&quot;,&quot;Murcia&quot;,&quot;Argentina&quot;),
+  (&quot;960-1064 Elit Rd.&quot;,&quot;Cusco&quot;,&quot;Loreto&quot;,&quot;Argentina&quot;),
+  (&quot;435-4859 Lorem Rd.&quot;,&quot;Putre&quot;,&quot;West Nusa Tenggara&quot;,&quot;Argentina&quot;),
+  (&quot;715-9549 Dui, Rd.&quot;,&quot;Tomohon&quot;,&quot;Azad Kashmir&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 424, 2728 Neque Rd.&quot;,&quot;Lào Cai&quot;,&quot;South Island&quot;,&quot;Argentina&quot;),
+  (&quot;460-6792 Sit Ave&quot;,&quot;Konin&quot;,&quot;Maine&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #919-3140 At, St.&quot;,&quot;Cheongju&quot;,&quot;Henegouwen&quot;,&quot;Argentina&quot;),
+  (&quot;649-5946 Pretium Av.&quot;,&quot;Paraíso&quot;,&quot;Xīběi&quot;,&quot;Argentina&quot;),
+  (&quot;848-8127 Ipsum Rd.&quot;,&quot;Lens&quot;,&quot;Murcia&quot;,&quot;Argentina&quot;),
+  (&quot;9222 Metus. Av.&quot;,&quot;Waren&quot;,&quot;Heredia&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 679, 1499 Quam Road&quot;,&quot;Smolensk&quot;,&quot;Oyo&quot;,&quot;Argentina&quot;),
+  (&quot;2108 Condimentum. Rd.&quot;,&quot;Gold Coast&quot;,&quot;Pernambuco&quot;,&quot;Argentina&quot;),
+  (&quot;393-623 Luctus Av.&quot;,&quot;Centa San Nicolò&quot;,&quot;Rio Grande do Sul&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 373, 4862 Mattis Street&quot;,&quot;Las Palmas&quot;,&quot;West Papua&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 751, 1053 Ultricies Avenue&quot;,&quot;Sicuani&quot;,&quot;Punjab&quot;,&quot;Argentina&quot;),
+  (&quot;987-9806 Non Road&quot;,&quot;Dehradun&quot;,&quot;Brussels Hoofdstedelijk Gewest&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 144, 1621 Rutrum St.&quot;,&quot;Siquirres&quot;,&quot;Lombardia&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #126-457 Ut, Rd.&quot;,&quot;Singkawang&quot;,&quot;Punjab&quot;,&quot;Argentina&quot;),
+  (&quot;7028 Fusce Street&quot;,&quot;Aparecida de Goiânia&quot;,&quot;Valparaíso&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 504, 4841 Nisi. Avenue&quot;,&quot;Anamur&quot;,&quot;Goiás&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #430-3641 In Road&quot;,&quot;East London&quot;,&quot;Puntarenas&quot;,&quot;Argentina&quot;),
+  (&quot;7231 Nibh. St.&quot;,&quot;Metro&quot;,&quot;South Island&quot;,&quot;Argentina&quot;),
+  (&quot;733-967 Duis Road&quot;,&quot;Welkom&quot;,&quot;Cartago&quot;,&quot;Argentina&quot;),
+  (&quot;709-333 Integer Avenue&quot;,&quot;Port Lincoln&quot;,&quot;Valle d'Aosta&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 629, 8570 Lacinia St.&quot;,&quot;Lviv&quot;,&quot;Khmelnytskyi oblast&quot;,&quot;Argentina&quot;),
+  (&quot;251-5622 Donec Ave&quot;,&quot;Jelenia Góra&quot;,&quot;Puntarenas&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 571, 7847 Porttitor Rd.&quot;,&quot;Pitt Meadows&quot;,&quot;Bauchi&quot;,&quot;Argentina&quot;),
+  (&quot;972-9513 Nullam Ave&quot;,&quot;Port Lincoln&quot;,&quot;North Sulawesi&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #472-8786 Nec, Road&quot;,&quot;Lagos&quot;,&quot;Eastern Cape&quot;,&quot;Argentina&quot;),
+  (&quot;867-1354 Amet, Street&quot;,&quot;Santander&quot;,&quot;Oyo&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 241, 6766 Etiam St.&quot;,&quot;Tibet&quot;,&quot;Khyber Pakhtoonkhwa&quot;,&quot;Argentina&quot;),
+  (&quot;598-6131 Erat, Avenue&quot;,&quot;Bắc Giang&quot;,&quot;Sumy oblast&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #880-4589 Nullam Rd.&quot;,&quot;Iksan&quot;,&quot;Eastern Cape&quot;,&quot;Argentina&quot;),
+  (&quot;880-1362 Non, Avenue&quot;,&quot;Campina Grande&quot;,&quot;Cagayan Valley&quot;,&quot;Argentina&quot;),
+  (&quot;4142 Tempus St.&quot;,&quot;Cusco&quot;,&quot;Sindh&quot;,&quot;Argentina&quot;),
+  (&quot;3449 Donec Rd.&quot;,&quot;Port Blair&quot;,&quot;Vestfold og Telemark&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #351-4804 Dolor St.&quot;,&quot;Guihulngan&quot;,&quot;Mexico City&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #524-9467 Nibh. Avenue&quot;,&quot;Mala&quot;,&quot;West Region&quot;,&quot;Argentina&quot;),
+  (&quot;600-6545 Erat Street&quot;,&quot;Zierikzee&quot;,&quot;Connacht&quot;,&quot;Argentina&quot;),
+  (&quot;148 Dignissim Street&quot;,&quot;Upplands Väsby&quot;,&quot;Oregon&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #215-3962 Amet Avenue&quot;,&quot;Oaxaca&quot;,&quot;Gilgit Baltistan&quot;,&quot;Argentina&quot;),
+  (&quot;947 Neque Rd.&quot;,&quot;Shostka&quot;,&quot;Nuevo León&quot;,&quot;Argentina&quot;),
+  (&quot;5715 Nulla Road&quot;,&quot;Ryazan&quot;,&quot;Junín&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #594-4694 Erat. Ave&quot;,&quot;Promo-Control&quot;,&quot;South Island&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #946-8626 Urna Street&quot;,&quot;Ålesund&quot;,&quot;East Nusa Tenggara&quot;,&quot;Argentina&quot;),
+  (&quot;7310 Lacus. Rd.&quot;,&quot;Chandigarh&quot;,&quot;Đồng Tháp&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #732-8126 Eros. Street&quot;,&quot;Tabuk&quot;,&quot;Lubuskie&quot;,&quot;Argentina&quot;),
+  (&quot;465-9716 Augue. Ave&quot;,&quot;Ramsdonk&quot;,&quot;Murcia&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #745-1514 Mi St.&quot;,&quot;Moss&quot;,&quot;Illinois&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 416, 4854 Nonummy St.&quot;,&quot;Gravataí&quot;,&quot;Calabria&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #566-751 Magnis Avenue&quot;,&quot;Bursa&quot;,&quot;Puebla&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #882-5487 Dictum St.&quot;,&quot;Cork&quot;,&quot;Aceh&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #784-7621 Quis St.&quot;,&quot;Hengelo&quot;,&quot;Podlaskie&quot;,&quot;Argentina&quot;),
+  (&quot;6808 Vestibulum Av.&quot;,&quot;Ozamiz&quot;,&quot;Zhōngnán&quot;,&quot;Argentina&quot;),
+  (&quot;266-6285 Dui, St.&quot;,&quot;Florø&quot;,&quot;Puntarenas&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 318, 549 Leo, Road&quot;,&quot;Chongqing&quot;,&quot;North Sulawesi&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #690-3448 Orci. Ave&quot;,&quot;Carmen de Bolivar&quot;,&quot;Ternopil oblast&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #105-2946 Vulputate Road&quot;,&quot;Singkawang&quot;,&quot;Casanare&quot;,&quot;Argentina&quot;),
+  (&quot;478-3257 Natoque Avenue&quot;,&quot;Galway&quot;,&quot;Mazowieckie&quot;,&quot;Argentina&quot;),
+  (&quot;313-9629 Ullamcorper Street&quot;,&quot;Selkirk&quot;,&quot;Pará&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #790-3971 Ornare, Rd.&quot;,&quot;Naro&quot;,&quot;Waals-Brabant&quot;,&quot;Argentina&quot;),
+  (&quot;708-5150 In, Ave&quot;,&quot;Clovenfords&quot;,&quot;Brussels Hoofdstedelijk Gewest&quot;,&quot;Argentina&quot;),
+  (&quot;689-7372 Consectetuer St.&quot;,&quot;Munich&quot;,&quot;Languedoc-Roussillon&quot;,&quot;Argentina&quot;),
+  (&quot;P.O. Box 462, 6551 At, Ave&quot;,&quot;Onitsha&quot;,&quot;East Region&quot;,&quot;Argentina&quot;),
+  (&quot;285-4101 Ac Rd.&quot;,&quot;Awka&quot;,&quot;West Region&quot;,&quot;Argentina&quot;),
+  (&quot;1096 Sodales Avenue&quot;,&quot;Łódź&quot;,&quot;Haute-Normandie&quot;,&quot;Argentina&quot;),
+  (&quot;Ap #359-992 In Street&quot;,&quot;Seshego&quot;,&quot;Lower Austria&quot;,&quot;Argentina&quot;);</sql><current_tab id="1"/></tab_sql></sqlb_project>
